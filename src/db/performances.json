@@ -1,0 +1,2756 @@
+[
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Aubree Oliverson",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "September 24, 2017 4PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Royce Hall",
+      "address_1": "10745 Dickson Court",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90095",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Richard Strauss",
+        "arranger": null,
+        "title": "Don Juan",
+        "selections": [],
+        "length": 18
+      },
+      {
+        "composer": "Max Bruch",
+        "arranger": null,
+        "title": "Violin Concerto No. 1 in G minor",
+        "selections": [
+          "I. Vorspiel: Allegro moderato",
+          "II. Adagio",
+          "III. Finale: Allegro energico"
+        ],
+        "length": 25
+      },
+      {
+        "composer": "Dmitry Shostakovich",
+        "arranger": null,
+        "title": "Symphony No. 12 in D minor",
+        "selections": [],
+        "length": 40
+      }
+    ]
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": "Bernstein Centennial",
+    "guest_artists": [
+      {
+        "name": "Juan Felipe Molano",
+        "instrument": "resident conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "February 17, 2018 2PM",
+        "note": "Family Music Adventure"
+      },
+      {
+        "date": "February 17 2018, 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Royce Hall",
+      "address_1": "10745 Dickson Court",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90095",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Leonard Bernstein",
+        "arranger": null,
+        "title": "Divertimento",
+        "selections": [],
+        "length": 14
+      },
+      {
+        "composer": "Aaron Copland",
+        "arranger": null,
+        "title": "Four Dance Episodes from Rodeo",
+        "selections": [
+          "I. Buckaroo Holiday",
+          "II. Corral Nocturne",
+          "III. Saturday Night Waltz",
+          "IV. Hoe-Down"
+        ],
+        "length": 18
+      },
+      {
+        "composer": "Charles Ives",
+        "arranger": null,
+        "title": "Three Places in New England",
+        "selections": [
+          "I. The 'St. Gaudens' in Boston Common (Col. Shaw and his Colored Regiment)",
+          "II. Putnam's Camp, Redding, Connecticut",
+          "III. The Housatonic at Stockbridge"
+        ],
+        "length": 20
+      },
+      {
+        "composer": "Leonard Bernstein",
+        "arranger": null,
+        "title": "Symphonic Dances from West Side Story (1960)",
+        "selections": [],
+        "length": 23
+      }
+    ]
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Vladimir Feltsman",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "March 25, 2018 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Walt Disney Concert Hall",
+      "address_1": "111 South Grand Avenue",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90012",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "John Adams",
+        "arranger": null,
+        "title": "Short Ride in a Fast Machine",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "John Adams",
+        "arranger": null,
+        "title": "Tromba Lonata",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "Sergei Prokofiev",
+        "arranger": null,
+        "title": "Piano Concerto No. 1",
+        "selections": [
+          "I. Allegro brioso",
+          "II. Andante assai",
+          "III. Allegro scherzando"
+        ],
+        "length": 15
+      },
+      {
+        "composer": "Jennifer Higdon",
+        "arranger": null,
+        "title": "Blue Cathedral",
+        "selections": [],
+        "length": 13
+      },
+      {
+        "composer": "Maurice Ravel",
+        "arranger": null,
+        "title": "Daphnis and Chloe Suite No. 2",
+        "selections": [],
+        "length": 18
+      }
+    ]
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Sergio Coelho",
+        "instrument": "clarinet"
+      }
+    ],
+    "dates": [
+      {
+        "date": "September 22, 2018, 6PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Royce Hall",
+      "address_1": "10745 Dickson Court",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90095",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Joan Tower",
+        "arranger": null,
+        "title": "Tambor",
+        "selections": [],
+        "length": 15
+      },
+      {
+        "composer": "John Corigliano",
+        "arranger": null,
+        "title": "Clarinet Concerto",
+        "selections": ["I. Cadenzas", "II. Elegy", "III. Antiphonal Toccata"],
+        "length": 30
+      },
+      {
+        "composer": "Sergei Rachmaninoff in A minor",
+        "arranger": null,
+        "title": "Symphony No. 3",
+        "selections": [
+          "I. Lento - Allegro Moderato - Allegro",
+          "II. Adagio ma non troppo - Allegro vivace",
+          "III. Allegro - Allegro vivace - Allegro - Allegretto - Allegro vivace"
+        ],
+        "length": 40
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Brahms' Third Symphony",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Michael Shinn",
+        "instrument": "piano"
+      },
+      {
+        "name": "Jessica Chow Shinn",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 6, 2018 10AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "October 6, 2018 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Johannes Brahms",
+        "arranger": null,
+        "title": "Symphony No. 3 in F Major",
+        "selections": [
+          "I. Allegro con brio",
+          "II. Andante",
+          "III. Poco allegretto",
+          "IV. Allegro - Un poco sostenuto"
+        ],
+        "length": 38
+      },
+      {
+        "composer": "Thomas Cabaniss",
+        "arranger": null,
+        "title": "'Double Rainbow' Concerto for Two Pianos and Orchestra",
+        "selections": [],
+        "length": 35
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "The American Masters",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Ilya Kaler",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "November 10, 2018 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "November 10, 2018 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Aaron Copland",
+        "arranger": null,
+        "title": "El Salon Mexico",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Samuel Barber",
+        "arranger": null,
+        "title": "Violin Concerto Op. 14",
+        "selections": [
+          "I. Allegro",
+          "II. Andante",
+          "III. Presto in moto perpetuo"
+        ],
+        "length": 22
+      },
+      {
+        "composer": "Michael Daugherty",
+        "arranger": null,
+        "title": "Strut for String Orchestra",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Leonard Bernstein",
+        "arranger": null,
+        "title": "Symphonic Suite from On the Waterfront",
+        "selections": [],
+        "length": 22
+      }
+    ]
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 2, 2018 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Spanish Guitar",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Jason Vieaux",
+        "instrument": "guitar"
+      }
+    ],
+    "dates": [
+      {
+        "date": "February 2, 2019 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "February 2, 2019 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Joaquin Turina",
+        "arranger": null,
+        "title": "Danzas Fantasticas Op. 22",
+        "selections": ["I. Exaltacion", "II. Ensueno", "III. Orgia"],
+        "length": 15
+      },
+      {
+        "composer": "Joaquin Rodrigo",
+        "arranger": null,
+        "title": "Concierto de Aranjuez",
+        "selections": [
+          "I. Allegro con spirito",
+          "II. Adagio",
+          "III. Allegro gentile"
+        ],
+        "length": 20
+      },
+      {
+        "composer": "Roberto Sierra",
+        "arranger": null,
+        "title": "'Folias' Concerto for Guitar and Orchestra",
+        "selections": [],
+        "length": 15
+      },
+      {
+        "composer": "Nikolai Rimsky-Korsakov",
+        "arranger": null,
+        "title": "Capriccio Espagnol",
+        "selections": [
+          "I. Alborada",
+          "II. Variazioni",
+          "III. Alborada",
+          "IV. Scena e Canto Gitano",
+          "V. Fandango Asturiano"
+        ],
+        "length": 15
+      }
+    ]
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": "AYS Celebrates the Year of the Woman",
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Susan Botti",
+        "instrument": "soprano"
+      },
+      {
+        "name": "Ted Atkatz",
+        "instrument": "percussion"
+      }
+    ],
+    "dates": [
+      {
+        "date": "February 23, 2019 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Royce Hall",
+      "address_1": "10745 Dickson Court",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90095",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Lera Auerbach",
+        "arranger": null,
+        "title": "Icarus",
+        "selections": [],
+        "length": 15
+      },
+      {
+        "composer": "Susan Botti",
+        "arranger": null,
+        "title": "EchoTempo",
+        "selections": [
+          "I. Spring is Opening",
+          "II. Neither Spirit nor Bird",
+          "III. War God's Horse Song II",
+          "IV. In the Great Night"
+        ],
+        "length": 35
+      },
+      {
+        "composer": "Jennifer Higdon",
+        "arranger": null,
+        "title": "Concerto for Orchestra",
+        "selections": [],
+        "length": 35
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Big Sur Inspirations",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Tracy Silverman",
+        "instrument": "electric violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "March 9, 2019 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "March 9, 2019 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Robert Schumann",
+        "arranger": null,
+        "title": "Symphony No. 4",
+        "selections": [
+          "I. Ziemlich langsam - Lebhaft",
+          "II. Romanze: Ziemlich langsam",
+          "III. Scherzo: Lebhaft",
+          "IV. Langsam - Lebhaft"
+        ],
+        "length": 30
+      },
+      {
+        "composer": "Tracy Silverman",
+        "arranger": null,
+        "title": "Anthem 25",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "John Adams",
+        "arranger": null,
+        "title": "The Dharma at Big Sur",
+        "selections": ["I. A New Day", "II. Sri Moonshine"],
+        "length": 30
+      }
+    ]
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": "LA Phil Presents: Sounds About Town",
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "AYS conductor"
+      },
+      {
+        "name": "Luke McEndarfer",
+        "instrument": "NCC conductor"
+      },
+      {
+        "name": "Jessica Rivera",
+        "instrument": "soprano"
+      },
+      {
+        "name": "Gloria Cheng",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "March 31, 2019 6PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Walt Disney Concert Hall",
+      "address_1": "111 South Grand Avenue",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90012",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Gabriel Faure",
+        "arranger": null,
+        "title": "Messe Basse",
+        "selections": [],
+        "length": 11
+      },
+      {
+        "composer": "Nico Muhly",
+        "arranger": null,
+        "title": "World Premiere, Co-Commissioned by the LA Phil, AYS and NCC",
+        "selections": [],
+        "length": 25
+      },
+      {
+        "composer": "Igor Stravinsky",
+        "arranger": null,
+        "title": "Symphony of Psalms",
+        "selections": [],
+        "length": 21
+      },
+      {
+        "composer": "Alexander Scriabin",
+        "arranger": null,
+        "title": "Symphony No. 5, 'Prometheus, Poem of Fire'",
+        "selections": [],
+        "length": 24
+      }
+    ]
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "April 8, 2019 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": "54th Annual Gala Concert",
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Sarah Change",
+        "instrument": "violin"
+      },
+      {
+        "name": "Jessica Bejarano",
+        "instrument": "guest conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "April 27, 2019 5PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Royce Hall",
+      "address_1": "10745 Dickson Court",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90095",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Dmitry Shostakovich",
+        "arranger": null,
+        "title": "Festive Overture",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Fil Eisler",
+        "arranger": null,
+        "title": "For J.E. Concerto for Violin and Orchestra",
+        "selections": [],
+        "length": 35
+      },
+      {
+        "composer": "Anna Clyne",
+        "arranger": null,
+        "title": "This Midnight Hour",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "Richard Strauss",
+        "arranger": null,
+        "title": "Suite from Der Rosenkavalier",
+        "selections": [],
+        "length": 21
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Beethoven 'Eroica'",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "May 4, 2019 10AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "May 4, 2019 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Maurice Ravel",
+        "arranger": null,
+        "title": "Le Tombeau de Couperin",
+        "selections": [
+          "I. Prelude",
+          "II. Forlane",
+          "III. Menuet",
+          "IV. Rigaudon"
+        ],
+        "length": 22
+      },
+      {
+        "composer": "Samuel Barber",
+        "arranger": null,
+        "title": "Adagio for Strings",
+        "selections": [],
+        "length": 8
+      },
+      {
+        "composer": "William Walton",
+        "arranger": null,
+        "title": "Crown Imperial March",
+        "selections": [],
+        "length": 9
+      },
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Symphony No. 3 'Eroica' in Eb Major",
+        "selections": [
+          "I. Allegro con brio",
+          "II. Marcia funebre - Adagio assai",
+          "III. Allegro vivace",
+          "IV. Allegro molto"
+        ],
+        "length": 45
+      }
+    ]
+  },
+  {
+    "organization": "Opera San Luis Obispo",
+    "concert_title": "Gala",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "May 11, 2019, 3PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "June 24, 2019 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "July 4, 2019 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Paso Robles Event Center",
+      "address_1": "2198 Riverside Avenue",
+      "address_2": null,
+      "city": "Paso Robles",
+      "state": "CA",
+      "zip": "93446",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Pops by the Sea",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Jeans 'n Classics",
+        "instrment": "band"
+      }
+    ],
+    "dates": [
+      {
+        "date": "August 31, 2019 3PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Avila Beach Golf Resort",
+      "address_1": "6464 Ana Bay Road",
+      "address_2": null,
+      "city": "Avila Beach",
+      "state": "CA",
+      "zip": "93424",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "September 14, 2019 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Dmitry Shostakovich",
+        "arranger": null,
+        "title": "Festive Overture",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Carl Orff",
+        "arranger": null,
+        "title": "Carmina Burana",
+        "selections": [],
+        "length": 60
+      }
+    ]
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "September 16, 2019 6:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Beethoven's Eighth Symphony",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 5, 2019 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "October 5, 2019 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Symphony No. 8 in F Major",
+        "selections": [
+          "I. Allegro viace e con brio",
+          "II. Allegretto scherzando",
+          "III. Tempo di menuetto",
+          "IV. Allegro vivace"
+        ],
+        "length": 26
+      },
+      {
+        "composer": "Richard Strauss",
+        "arranger": null,
+        "title": "Ein Heldenleben",
+        "selections": [],
+        "length": 46
+      }
+    ]
+  },
+  {
+    "organization": "Opera San Luis Obispo",
+    "concert_title": "South Pacific",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 12, 2019 2PM",
+        "note": "concert"
+      },
+      {
+        "date": "October 13, 2019 2PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": "Opening Night Concert",
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Gallia Kastner",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 20, 2019",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Royce Hall",
+      "address_1": "10745 Dickson Court",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90095",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Joan Tower",
+        "arranger": null,
+        "title": "Sequoia",
+        "selections": [],
+        "length": 16
+      },
+      {
+        "composer": "Jean Sibelius",
+        "arranger": null,
+        "title": "Violin Concerto",
+        "selections": [
+          "I. Allegro moderato",
+          "II. Adagio di molto",
+          "III. Allegro, ma non tanto"
+        ],
+        "length": 35
+      },
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Symphony No. 6 in F Major, 'Pastoral'",
+        "selections": [
+          "I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande",
+          "II. Szene am Bach",
+          "III. Lustiges Zusammensein der Landleute",
+          "IV. Gewitter, Sturm",
+          "V. Hirtengesang. Frohe und dankbare Gefuhle nach dem Sturm"
+        ],
+        "length": 40
+      }
+    ]
+  },
+  {
+    "organization": "Raincross Master Chorale",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "William Brakemeyer",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 27, 2019 1PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Calvary Presbyterian Church",
+      "address_1": "4495 Magnolia Avenue",
+      "address_2": null,
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92501",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Mass in C Major",
+        "selections": [],
+        "length": 43
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "American Classics",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Mark Hetzler",
+        "instrument": "trombone"
+      }
+    ],
+    "dates": [
+      {
+        "date": "November 9, 2019 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "November 9, 2019 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": "https://www.slosymphony.org/concerts/american-classics/",
+    "program": [
+      {
+        "composer": "George Gershwin",
+        "arranger": "Don Rose",
+        "title": "'Girl Crazy' Overture",
+        "selections": [],
+        "length": 7
+      },
+      {
+        "composer": "Mark Hetzler",
+        "arranger": null,
+        "title": "Three Views of Infinity",
+        "selections": [
+          "I. Morning Prayer in Sheshadripuram",
+          "II. The Temples of Belur, Halebidu & Shravanabelagola",
+          "III. Mangalore to Bangalore Express"
+        ],
+        "length": 30
+      },
+      {
+        "composer": "Stella Sung",
+        "arranger": null,
+        "title": "Rockwell Reflections",
+        "selections": [
+          "I. Introduction: Artist Facing a Blank Canvas",
+          "II. Moderato espressivo - Stay at Homes",
+          "III. Scherzo - Checkers",
+          "IV. Largo espressivo - Southern Justice",
+          "V. Andante maestoso - Peace Corps"
+        ],
+        "length": 25
+      },
+      {
+        "composer": "Aaron Copland",
+        "arranger": null,
+        "title": "Bill the Kid: Ballet Suite",
+        "selections": [
+          "I. Introduction: The Open Prairie",
+          "II. Street in a Frontier Town",
+          "III. Mexican Dance and Finale",
+          "IV. Prairie Night (Card Game at Night)",
+          "V. Gun Battle",
+          "VI. Celebration (After Billy's Capture)",
+          "VII. Billy's Death",
+          "VIII. The Open Prairie Again"
+        ],
+        "length": 20
+      }
+    ]
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Annual Holiday Concert",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Lynn Harrell",
+        "instrument": "cello"
+      },
+      {
+        "name": "Jennifer Holliday",
+        "instrument": "singer"
+      },
+      {
+        "name": "Angel Garcia",
+        "instrument": "singer"
+      }
+    ],
+    "dates": [
+      {
+        "date": "November 16, 2019 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Danny Elfman",
+        "arranger": null,
+        "title": "Nightmare Before Christmas",
+        "selections": [],
+        "length": 7
+      },
+      {
+        "composer": "Kristen Anderson-Lopez",
+        "arranger": null,
+        "title": "Remember Me (from Coco)",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "Ernest Bloch",
+        "arranger": null,
+        "title": "Schelomo: Hebraic Rhapsody for Solo Cello and Orchestra",
+        "selections": [],
+        "length": 20
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Selections from The Nutcracker",
+        "selections": [],
+        "length": 10
+      }
+    ]
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 1, 2019 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "Opera San Luis Obispo",
+    "concert_title": "Nutcracker with Civic Ballet",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 13, 2019 7PM",
+        "note": "concert"
+      },
+      {
+        "date": "December 14, 2019 2PM",
+        "note": "concert"
+      },
+      {
+        "date": "December 14, 2019 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "Opera San Luis Obispo",
+    "concert_title": "Nutcracker with State Street Ballet",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 21, 2019 2PM",
+        "note": "concert"
+      },
+      {
+        "date": "December 21, 2019 7PM",
+        "note": "concert"
+      },
+      {
+        "date": "December 22, 2019 2PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "The Granada Theatre",
+      "address_1": "1214 State Street",
+      "address_2": null,
+      "city": "Santa Barbara",
+      "state": "CA",
+      "zip": "93101",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "A Night at the Oscars",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Brynn Albanese",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 31, 2019 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Richard Strauss",
+        "arranger": null,
+        "title": "Also Sprach Zarathustra",
+        "selections": ["Opening"],
+        "length": "2 '"
+      },
+      {
+        "composer": "Max Steiner",
+        "arranger": null,
+        "title": "Suite from Casablanca",
+        "selections": [],
+        "length": "7 '"
+      },
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Three Pieces from Schindler's List",
+        "selections": ["I. Theme"],
+        "length": 4
+      },
+      {
+        "composer": "John Barry",
+        "arranger": null,
+        "title": "Dances with Wolves Medley",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Elmer Bernstein",
+        "arranger": null,
+        "title": "Magnificent Seven Symphonic Suite",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Raider's March from Raiders of the Lost Ark",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "Nigel Hess",
+        "arranger": null,
+        "title": "Ladies in Lavender",
+        "selections": ["Fantasy"],
+        "length": 5
+      },
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Main Theme from Jurassic Park",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Howard Shore",
+        "arranger": "John Whitney",
+        "title": "The Lord of the Rings Suite",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Adventures on Earth from ET",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Trevor Jones",
+        "arranger": null,
+        "title": "Suite from The Last of the Mohicans",
+        "selections": ["V. Top of the World"],
+        "length": 3
+      }
+    ]
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "American Legacy: A Tribute to Martin Luther King Jr.",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "January 18, 2020 7:30 PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Heaven and Earth",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Amy Goymerac",
+        "instrument": "soprano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "February 1, 2020 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "February 1, 2020 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Carl Nielsen",
+        "arranger": null,
+        "title": "Helios Overture, Op. 17",
+        "selections": [],
+        "length": 13
+      },
+      {
+        "composer": "Samuel Barber",
+        "arranger": null,
+        "title": "Knoxville: Summer of 1915",
+        "selections": [],
+        "length": 16
+      },
+      {
+        "composer": "Gustav Mahler",
+        "arranger": null,
+        "title": "Symphony No. 4 in G Major",
+        "selections": [
+          "I. Bedachtig, nicht eilen",
+          "II. In gemachlicher Bewegung, ohne Hast",
+          "III. Ruhevoll, poco adagio",
+          "IV. Sehr behaglich"
+        ],
+        "length": 54
+      }
+    ]
+  },
+  {
+    "organization": "American Youth Symphony",
+    "concert_title": "Sounds About Town",
+    "guest_artists": [
+      {
+        "name": "Carlos Izcaray",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Charles Yang",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "February 8, 2020 2PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Walt Disney Concert Hall",
+      "address_1": "111 South Grand Avenue",
+      "address_2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90012",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Maurice Ravel",
+        "arranger": null,
+        "title": "Alborada del gracioso",
+        "selections": [],
+        "length": 8
+      },
+      {
+        "composer": "Jennifer Higdon",
+        "arranger": null,
+        "title": "All Things Majestic",
+        "selections": [
+          "I. Teton Range",
+          "II. String Lake",
+          "III. Snake River",
+          "IV. Cathedrals"
+        ],
+        "length": 22
+      },
+      {
+        "composer": "Kris Bowers",
+        "arranger": null,
+        "title": "For a Younger Self",
+        "selections": [
+          "I. Moderato ma non troppo",
+          "II. Gently",
+          "III. Lively"
+        ],
+        "length": 25
+      }
+    ]
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Cirque de la Symphonie",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Cirque de al Symphonie",
+        "instrument": "acrobatics troupe"
+      }
+    ],
+    "dates": [
+      {
+        "date": "February 21, 2020 10AM",
+        "note": "concert"
+      },
+      {
+        "date": "February 22, 2020 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Sounds Like Home",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Marcia Dickstein",
+        "instrument": "harp"
+      },
+      {
+        "name": "Marley Eder",
+        "instrument": "flute"
+      }
+    ],
+    "dates": [
+      {
+        "date": "March 7, 2020, 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "March 7, 2020, 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Franz Joseph Haydn",
+        "arranger": null,
+        "title": "Sinfonia concertante in Bb Major",
+        "selections": [
+          "I. Allegro",
+          "II. Andante",
+          "III. Finale: Allegro con spirito"
+        ],
+        "length": 23
+      },
+      {
+        "composer": "W. A. Mozart",
+        "arranger": null,
+        "title": "Concerto for Flute and Harp in C Major, K. 299",
+        "selections": ["I. Allegro", "II. Andantino", "III. Rondeau - Allegro"],
+        "length": 29
+      },
+      {
+        "composer": "Alberto Ginastera",
+        "arranger": null,
+        "title": "Variaciones Concertantes, Op. 23",
+        "selections": [
+          "I. Tema per Violincello ed Arpa",
+          "II. Interludio per Corde",
+          "III. Variazione giocosa per Flauto",
+          "IV. Variazione in modo di scherzo per Clarinetto",
+          "V. Variazione drammatica per Viola,",
+          "VI. Variazione canonica per Oboe e Fagotto",
+          "VII. Variazione ritmica per Tromba e Trombone",
+          "VIII. Variazione in modi di moto perpetuo per Violino",
+          "IX. Variazione pastorale per Corno",
+          "X. Interludio per Fiati",
+          "XI. Ripresa dal tema per Contrabasso",
+          "XII. Variazione finale in modo di rondo per Orchestra"
+        ],
+        "length": 25
+      }
+    ]
+  },
+  {
+    "organization": "Neptune Reeds",
+    "concert_title": "Halloween 2020 Livestream",
+    "guest_artists": [
+      {
+        "name": "Heidi Butterfield Yi",
+        "instrument": "oboe"
+      },
+      {
+        "name": "Anthony Yi",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Emelia Banninger",
+        "instrument": "bassoon"
+      },
+      {
+        "name": "Abraham Perez",
+        "instrument": "clarinet"
+      },
+      {
+        "name": "Richard Dobeck",
+        "instrument": "clarinet"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 30, 2020 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://www.facebook.com/NeptuneReeds/videos/3353034731477630/",
+    "program": []
+  },
+  {
+    "organization": "Neptune Reeds",
+    "concert_title": "Holidays 2020",
+    "guest_artists": [
+      {
+        "name": "Heidi Butterfield Yi",
+        "instrument": "oboe"
+      },
+      {
+        "name": "Anthony Yi",
+        "instrument": "saxophone"
+      },
+      {
+        "name": "Emelia Banninger",
+        "instrument": "bassoon"
+      },
+      {
+        "name": "Abraham Perez",
+        "instrument": "clarinet"
+      },
+      {
+        "name": "Richard Dobeck",
+        "instrument": "clarinet"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 30, 2020",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://www.facebook.com/watch/122019974893517/702293957314678/",
+    "program": []
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "April 23, 2021",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "San Bernardino Valley College",
+      "address_1": "701 South Mt Vernon Avenue",
+      "address_2": "Auditorium",
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92410",
+      "country": "US"
+    },
+    "url": "https://www.youtube.com/watch?v=zWPHuCyZsQ8&t=39s",
+    "program": [
+      {
+        "composer": "W. A. Mozart",
+        "arranger": null,
+        "title": "Overture from The Magic Flute",
+        "selections": [],
+        "length": 4
+      }
+    ]
+  },
+  {
+    "organization": "Symphony of the Vines",
+    "concert_title": "Heroic Beethoven",
+    "guest_artists": [
+      {
+        "name": "Greg Magie",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Hilary Clark",
+        "instrument": "cello"
+      }
+    ],
+    "dates": [
+      {
+        "date": "September 12, 2021 3PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Atascadero United Methodist Church",
+      "address_1": "11605 El Camino Real",
+      "address_2": null,
+      "city": "Atascadero",
+      "state": "CA",
+      "zip": "93422",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Name Day Overture",
+        "selections": [],
+        "length": 13
+      },
+      {
+        "composer": "Daniel Baldwin",
+        "arranger": null,
+        "title": "Cello Concerto",
+        "selections": [
+          "I. Adagio liberamente - Allegro moderato",
+          "II. Adagio dolorosa",
+          "III. Freely - Vivace assai"
+        ],
+        "length": 50
+      },
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Symphony No. 3 'Eroica' in Eb Major",
+        "selections": [
+          "I. Allegro con brio",
+          "II. Marcia funebre - Adagio assai",
+          "III. Allegro vivace",
+          "IV. Allegro molto"
+        ],
+        "length": 45
+      },
+      {
+        "composer": "Samuel Barber",
+        "arranger": null,
+        "title": "Adagio for Strings",
+        "selections": [],
+        "length": 8
+      }
+    ]
+  },
+  {
+    "organization": "Symphony of the Vines",
+    "concert_title": "Capricious Clarinet",
+    "guest_artists": [
+      {
+        "name": "Richard Dobeck",
+        "instrument": "clarinet"
+      },
+      {
+        "name": "Hilary Clark",
+        "instrument": "cello"
+      },
+      {
+        "name": "Dmitry Cogan",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 17, 2021 5:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Cass Winery",
+      "address_1": "7350 Linne Road",
+      "address_2": "Barrel Room",
+      "city": "Paso Robles",
+      "state": "CA",
+      "zip": "93446",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Gioachino Rossini",
+        "arranger": null,
+        "title": "Introduction, Theme and Variations for Clarinet and Piano",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Louis Cahuzac",
+        "arranger": null,
+        "title": "Cantilene",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Robert Muczynski",
+        "arranger": null,
+        "title": "Time Pieces for Clarinet and Piano",
+        "selections": [
+          "I. Allegro risoluto",
+          "II. Andante espressivo",
+          "III. Allegro moderato",
+          "IV. Introduction: Andante molto - Allegro"
+        ],
+        "length": 16
+      },
+      {
+        "composer": "Johannes Brahms",
+        "arranger": null,
+        "title": "Trio for Clarinet, Cello, and Piano in A minor",
+        "selections": [
+          "I. Allegro",
+          "II. Adagio",
+          "III. Andatino grazioso",
+          "IV. Allegro"
+        ],
+        "length": 25
+      }
+    ]
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Home",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "October 23, 2021 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "American Showcase",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Ken Hustad",
+        "instrument": "double bass"
+      }
+    ],
+    "dates": [
+      {
+        "date": "November 13, 2021 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "November 13, 2021 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": "https://vimeo.com/659862396",
+    "program": [
+      {
+        "composer": "Thomas Siwe",
+        "arranger": null,
+        "title": "Duet for Snare Drum and Timpani",
+        "selections": [],
+        "length": 2
+      },
+      {
+        "composer": "Warren Benson",
+        "arranger": null,
+        "title": "Three Pieces for Percussion Quartet",
+        "selections": ["Sherzino"],
+        "length": 1
+      },
+      {
+        "composer": "Alan Hovhaness",
+        "arranger": null,
+        "title": "Bacchanale Percussion Quintet",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "Jessie Montgomery",
+        "arranger": null,
+        "title": "Strum for String Quartet",
+        "selections": [],
+        "length": 8
+      },
+      {
+        "composer": "Valerie Coleman",
+        "arranger": null,
+        "title": "Tzigane for Wind Quintet",
+        "selections": [],
+        "length": 8
+      },
+      {
+        "composer": "Stefan Podell",
+        "arranger": null,
+        "title": "Concerto for Double Bass",
+        "selections": ["III"],
+        "length": 12
+      },
+      {
+        "composer": "William Banfield",
+        "arranger": null,
+        "title": "Symphony No. 6",
+        "selections": ["II. In an Ellington Mood"],
+        "length": 10
+      },
+      {
+        "composer": "Duke Ellington/Billy Strayhorn",
+        "arranger": "Jeff Tyzik",
+        "title": "Nutcracker Suite",
+        "selections": [
+          "I. Overture",
+          "II. Toot Toot Tootie Too (Dance of the Reed Pipes)",
+          "III. Dance of the Floreadores (Waltz of the Flowers)",
+          "IV. Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
+          "V. Peanut Brittle Brigade (March)"
+        ],
+        "length": 17
+      }
+    ]
+  },
+  {
+    "organization": "Sequoia Symphony",
+    "concert_title": "Masterworks II: Scheherazade",
+    "guest_artists": [
+      {
+        "name": "Bruce Kiesling",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Daniela Liebman",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "November 20, 2021 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Visalia Fox Theatre",
+      "address_1": "308 West Main Street",
+      "address_2": null,
+      "city": "Visalia",
+      "state": "CA",
+      "zip": "93291",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Caroline Shaw",
+        "arranger": null,
+        "title": "Entr'acte",
+        "selections": [],
+        "length": 11
+      },
+      {
+        "composer": "Felix Mendelssohn",
+        "arranger": null,
+        "title": "Piano Concerto No. 1 in G minor, Op. 25",
+        "selections": [
+          "I. Molto Allegro con fuoco",
+          "II. Andante",
+          "III. Presto - Molto Allegro e vivace"
+        ],
+        "length": 19
+      },
+      {
+        "composer": "Nikolai Rimsky-Korsakov",
+        "arranger": null,
+        "title": "Scheherazade",
+        "selections": [
+          "I. The Sea and Sinbad's Ship",
+          "II. The Legend of the Kalendar Prince",
+          "III. The Young Prince and the Princess",
+          "IV. Festival at Baghdad. The Sea. Ship Breaks against a Cliff Surmounted by a Bronze Horseman"
+        ],
+        "length": 46
+      },
+      {
+        "composer": "Dmitry Shostakovich",
+        "arranger": null,
+        "title": "Festive Overture",
+        "selections": [],
+        "length": 6
+      }
+    ]
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 5, 2021 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Strauss, Price, Archuleta",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Dr. Karen Michele Walwyn",
+        "instrument": "piano"
+      },
+      {
+        "name": "David Archuleta",
+        "instrument": "singer"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 11, 2021 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Master Chorale",
+    "concert_title": "Messiah Sing a long",
+    "guest_artists": [
+      {
+        "name": "Thomas Davies",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 18, 2021 7PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "Opera San Luis Obispo",
+    "concert_title": "New Year's Eve Super Gala with OperaSLO & Friends",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 31, 2021 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Celebrating Our Artists",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Emily Lanzone",
+        "instrument": "violin"
+      },
+      {
+        "name": "Timothy Shanks",
+        "instrument": "violin"
+      },
+      {
+        "name": "Heidi Butterfield Yi",
+        "instrument": "oboe"
+      },
+      {
+        "name": "Marley Eder",
+        "instrument": "flute"
+      },
+      {
+        "name": "Jessica Hoffman",
+        "instrument": "english shorn"
+      }
+    ],
+    "dates": [
+      {
+        "date": "March 5, 2022 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "March 5, 2022 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": "https://pacslo.org/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=CE02B7DF-4EC2-4E8D-A02C-CF21D6139233",
+    "program": [
+      {
+        "composer": "Johann Sebastian Bach",
+        "arranger": null,
+        "title": "Concerto for Two Violins in D minor",
+        "selections": ["I. Vivace", "II. Largo ma non tanto", "III. Allegro"],
+        "length": 15
+      },
+      {
+        "composer": "Henry Cowell",
+        "arranger": null,
+        "title": "Hymn and Fuguing Tune No. 10 for Oboe and Strings",
+        "selections": ["I. Hymn", "II. Fuguing Tune"],
+        "length": 6
+      },
+      {
+        "composer": "Louise Farrenc",
+        "arranger": null,
+        "title": "Nonet in Eb Major",
+        "selections": ["I. Adagio - Allegro", "III. Scherzo. Vivace"],
+        "length": 17
+      },
+      {
+        "composer": "Arthur Honegger",
+        "arranger": null,
+        "title": "Sonata da Camera for Flute, English Horn, and Strings",
+        "selections": ["I. Allegretto amabile", "II. Andante", "III. Vivace"],
+        "length": 17
+      },
+      {
+        "composer": "Peter Warlock",
+        "arranger": null,
+        "title": "Capriol Suite",
+        "selections": [
+          "I. Basse-Danse",
+          "II. Pavane",
+          "III. Tordion",
+          "IV. Bransles",
+          "V. Pieds-en-l'air",
+          "VI. Mattachins (Sword Dance)"
+        ],
+        "length": 11
+      }
+    ]
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Romeo & Juliet vs. West Side Story",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "March 12, 2020 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": "https://app.arts-people.com/index.php?actions=4&p=6",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Master Chorale",
+    "concert_title": "The Poets Speak",
+    "guest_artists": [
+      {
+        "name": "Thomas Davies",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Alba Franco-Cancel",
+        "instrument": "soprano"
+      },
+      {
+        "name": "Joel Balzun",
+        "instrument": "baritone"
+      },
+      {
+        "name": "Susan Azaret Davies",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "April 24, 2022 3PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": "http://slomasterchorale.org/",
+    "program": [
+      {
+        "composer": "Ralph Vaughan-Williams",
+        "arranger": null,
+        "title": "Fantasie on the Old 104th Psalm Tune",
+        "selections": [],
+        "length": 15
+      },
+      {
+        "composer": "Ralph Vaughan-Williams",
+        "arranger": null,
+        "title": "Five Mystical Songs",
+        "selections": [
+          "I. Easter",
+          "II. I Got Me Flowers",
+          "III. Love Bade Me Welcome",
+          "IV. The Call",
+          "V. Antiphon"
+        ],
+        "length": 20
+      },
+      {
+        "composer": "Ralph Vaughan-Williams",
+        "arranger": null,
+        "title": "Dona nobis pacem",
+        "selections": [
+          "I. Agnus Dei",
+          "II. Beat! Beat! Drums!",
+          "III. Reconciliation",
+          "IV. Dirge for Two Veterans",
+          "V. The Angel of Death has been abroad throughout the land",
+          "VI. O man, greatly beloved, fear not!"
+        ],
+        "length": 40
+      }
+    ]
+  },
+  {
+    "organization": "Opera San Luis Obispo",
+    "concert_title": "Hansel & Gretel",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "May 7, 2022 7PM",
+        "note": "concert"
+      },
+      {
+        "date": "May 8, 2022 2PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": "https://www.operaslo.org/event-details.php?id=16",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Tchaikovsky & Mozart",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Gilles Apap",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "May 14, 2022 11AM",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "May 14, 2022 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": "https://pacslo.org/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=81CB89A0-7377-4E84-AB8D-A362938B998C",
+    "program": [
+      {
+        "composer": "Johannes Brahms",
+        "arranger": null,
+        "title": "Serenade No. 1 in D Major, Op. 11",
+        "selections": [
+          "I. Allegro molto",
+          "II. Scherzo - Trio",
+          "III. Adagio non troppo",
+          "IV. Minuet 1 - Minuet 2",
+          "V. Scherzo - Trio",
+          "VI. Rondo"
+        ],
+        "length": 45
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Violin Concerto in D Major, Op. 35",
+        "selections": [
+          "I. Allegro moderato - Moderato assai",
+          "II. Canzonetta",
+          "III. Finale"
+        ],
+        "length": 34
+      },
+      {
+        "composer": "W. A. Mozart",
+        "arranger": null,
+        "title": "Symphony No. 40 in G minor, K. 550",
+        "selections": [
+          "I. Molto allegro",
+          "II. Andante",
+          "III. Menuetto",
+          "IV. Allegro assai"
+        ],
+        "length": 30
+      }
+    ]
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "America, the Beautiful",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "July 2, 2022 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "San Bernardino Valley College",
+      "address_1": "701 South Mt Vernon Avenue",
+      "address_2": "Football Field",
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92410",
+      "country": "US"
+    },
+    "url": "https://app.arts-people.com/index.php?actions=4&p=66",
+    "program": []
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Movies with the Maestro",
+    "guest_artists": [],
+    "dates": [
+      {
+        "date": "October 29, 2022 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": "https://app.arts-people.com/index.php?actions=4&p=92",
+    "program": []
+  },
+  {
+    "organization": "San Bernardino Symphony",
+    "concert_title": "Cirque de la Noel",
+    "guest_artists": [
+      {
+        "name": "Anthony Parnther",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Cirque de la Symphonie",
+        "instrument": "acrobatics troupe"
+      }
+    ],
+    "dates": [
+      {
+        "date": "December 17, 2022 7:30PM",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "California Theater of the Performing Arts",
+      "address_1": "562 West 4th Street",
+      "address_2": null,
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92401",
+      "country": "US"
+    },
+    "url": "https://app.arts-people.com/index.php?actions=4&p=106",
+    "program": []
+  }
+]
