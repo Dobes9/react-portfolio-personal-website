@@ -953,6 +953,18 @@
       {
         "name": "Anthony Parnther",
         "instrument": "conductor"
+      },
+      {
+        "name": "Zachary Gordin",
+        "instrument": "baritone"
+      },
+      {
+        "name": "Holly Sedillos",
+        "instrument": "soprano"
+      },
+      {
+        "name": "Darryl Taylor",
+        "instrument": "tenor"
       }
     ],
     "dates": [
@@ -978,6 +990,27 @@
         "title": "Festive Overture",
         "selections": [],
         "length": 6
+      },
+      {
+        "composer": "Edward Elgar",
+        "arranger": null,
+        "title": "Enigma Variations",
+        "selections": ["IX. Nimrod"],
+        "length": 3
+      },
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Summon the Heroes",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Michael Barry",
+        "arranger": null,
+        "title": "Arise",
+        "selections": ["Commissioned World Premiere"],
+        "length": 4
       },
       {
         "composer": "Carl Orff",
