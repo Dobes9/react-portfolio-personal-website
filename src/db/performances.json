@@ -2122,7 +2122,69 @@
       "country": "US"
     },
     "url": null,
-    "program": []
+    "program": [
+      {
+        "composer": "",
+        "arranger": "Rob Schaer",
+        "title": "America the Beautiful",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Antonin Dvorak",
+        "arranger": null,
+        "title": "Symphony No. 9 'From the New World'",
+        "selections": ["II. Largo", "IV. Allegro con fuoco"],
+        "length": 22
+      },
+      {
+        "composer": "Antonin Dvorak",
+        "arranger": "William Arms Fisher",
+        "title": "Going Home",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Duke Ellington",
+        "arranger": "Calvin Custer",
+        "title": "Duke Ellington! (A Medley for Orchestra)",
+        "selections": [
+          "Don't Get Around Much Anymore",
+          "Do Nothin' Till You Hear From Me",
+          "Sophisticated Lady",
+          "It Don't Mean a Thing (If it Ain't Got That Swing)"
+        ],
+        "length": 7
+      },
+      {
+        "composer": "Chanda Dancy",
+        "arranger": null,
+        "title": "Impermanence - A Meditation",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Harold Arlen, Yip Harburg",
+        "arranger": "Brian E Hodge",
+        "title": "Somewhere Over the Rainbow",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Scott Bradley",
+        "arranger": "Michael Barry",
+        "title": "Tom and Jerry at MGM",
+        "selections": [],
+        "length": 8
+      },
+      {
+        "composer": "Leonard Bernstein",
+        "arranger": null,
+        "title": "Candide",
+        "selections": ["Make our Garden Grow"],
+        "length": 3
+      }
+    ]
   },
   {
     "organization": "San Luis Obispo Symphony",
