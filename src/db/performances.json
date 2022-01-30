@@ -2351,7 +2351,78 @@
       "country": "US"
     },
     "url": null,
-    "program": []
+    "program": [
+      {
+        "composer": "Richard Strauss",
+        "arranger": null,
+        "title": "Don Juan",
+        "selections": [],
+        "length": 18
+      },
+      {
+        "composer": "Florence Price",
+        "arranger": "Clovis Lark, Nick Greer",
+        "title": "Concerto in D minor in one movement",
+        "selections": [],
+        "length": 18
+      },
+      {
+        "composer": "Irving Berlin",
+        "arranger": "Sam Cardon",
+        "title": "White Christmas",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "David Archuleta",
+        "arranger": "Kurt Bestor",
+        "title": "Winter in the Air",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Alfred Burt",
+        "arranger": "David Archuleta",
+        "title": "Some Children See Him",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Hugh Martin & Ralph Blane",
+        "arranger": "David Archuleta, Fedor Vrtacnik",
+        "title": "Have Yourself a Merry Little Christmas",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "David Archuleta",
+        "arranger": "David Brunelle & Sean Barrett",
+        "title": "Glorious - You Say",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "David Archuleta",
+        "arranger": "Kurt Bestor",
+        "title": "Christmas Every Day",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "David Archuleta",
+        "arranger": "Sam Cardon",
+        "title": "My Little Prayer",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Adolphe Adam",
+        "arranger": "Sam Cardon, Richard Parkinson, Neesha Quinn",
+        "title": "O Holy Night",
+        "selections": [],
+        "length": 4
+      }
+    ]
   },
   {
     "organization": "San Luis Obispo Master Chorale",
@@ -2512,7 +2583,7 @@
     ],
     "dates": [
       {
-        "date": "March 12, 2020 7:30PM",
+        "date": "March 12, 2022 7:30PM",
         "note": "concert"
       }
     ],
