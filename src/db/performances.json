@@ -14,7 +14,7 @@
     ],
     "dates": [
       {
-        "date": "September 24, 2017 4PM",
+        "date": "2017-09-24T16:00:00+0000",
         "note": "concert"
       }
     ],
@@ -67,11 +67,11 @@
     ],
     "dates": [
       {
-        "date": "February 17, 2018 2PM",
+        "date": "2018-02-17T14:00:00+0000",
         "note": "Family Music Adventure"
       },
       {
-        "date": "February 17 2018, 7PM",
+        "date": "2018-02-17T19:00:00+0000",
         "note": "concert"
       }
     ],
@@ -140,7 +140,7 @@
     ],
     "dates": [
       {
-        "date": "March 25, 2018 6:30PM",
+        "date": "2018-03-25T18:30:00+0000",
         "note": "concert"
       }
     ],
@@ -211,7 +211,7 @@
     ],
     "dates": [
       {
-        "date": "September 22, 2018, 6PM",
+        "date": "2018-09-22T19:00:00+0000",
         "note": "concert"
       }
     ],
@@ -276,11 +276,11 @@
     ],
     "dates": [
       {
-        "date": "October 6, 2018 10AM",
+        "date": "2018-10-06T11:00:00+0000",
         "note": "open dress rehearsal"
       },
       {
-        "date": "October 6, 2018 6:30PM",
+        "date": "2018-10-06T19:30:00+0000",
         "note": "concert"
       }
     ],
@@ -331,11 +331,11 @@
     ],
     "dates": [
       {
-        "date": "November 10, 2018 11AM",
+        "date": "2018-11-10T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "November 10, 2018 7:30PM",
+        "date": "2018-11-10T19:30:00",
         "note": "concert"
       }
     ],
@@ -395,7 +395,7 @@
     ],
     "dates": [
       {
-        "date": "December 2, 2018 7PM",
+        "date": "2018-12-02T19:00:00",
         "note": "concert"
       }
     ],
@@ -426,11 +426,11 @@
     ],
     "dates": [
       {
-        "date": "February 2, 2019 11AM",
+        "date": "2019-02-02T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "February 2, 2019 7:30PM",
+        "date": "2019-02-02T19:30:00",
         "note": "concert"
       }
     ],
@@ -508,7 +508,7 @@
     ],
     "dates": [
       {
-        "date": "February 23, 2019 7PM",
+        "date": "2019-02-23T19:00:00",
         "note": "concert"
       }
     ],
@@ -566,11 +566,11 @@
     ],
     "dates": [
       {
-        "date": "March 9, 2019 11AM",
+        "date": "2019-03-09T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "March 9, 2019 7:30PM",
+        "date": "2019-03-09T19:30:00",
         "note": "concert"
       }
     ],
@@ -639,7 +639,7 @@
     ],
     "dates": [
       {
-        "date": "March 31, 2019 6PM",
+        "date": "2019-03-31T19:00:00",
         "note": "concert"
       }
     ],
@@ -695,7 +695,7 @@
     ],
     "dates": [
       {
-        "date": "April 8, 2019 6:30PM",
+        "date": "2019-04-08T19:30:00",
         "note": "concert"
       }
     ],
@@ -730,7 +730,7 @@
     ],
     "dates": [
       {
-        "date": "April 27, 2019 5PM",
+        "date": "2019-04-27T17:00:00",
         "note": "concert"
       }
     ],
@@ -786,11 +786,11 @@
     ],
     "dates": [
       {
-        "date": "May 4, 2019 10AM",
+        "date": "2019-05-04T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "May 4, 2019 6:30PM",
+        "date": "2019-05-04T19:30:00",
         "note": "concert"
       }
     ],
@@ -856,7 +856,7 @@
     ],
     "dates": [
       {
-        "date": "May 11, 2019, 3PM",
+        "date": "2019-05-11T15:00:00",
         "note": "concert"
       }
     ],
@@ -941,7 +941,7 @@
     ],
     "dates": [
       {
-        "date": "August 31, 2019 3PM",
+        "date": "2019-08-31T15:00:00",
         "note": "concert"
       }
     ],
@@ -959,7 +959,7 @@
   },
   {
     "organization": "San Bernardino Symphony",
-    "concert_title": null,
+    "concert_title": "Carmina Burana",
     "guest_artists": [
       {
         "name": "Anthony Parnther",
@@ -968,7 +968,7 @@
     ],
     "dates": [
       {
-        "date": "September 14, 2019 6:30PM",
+        "date": "2019-09-14T19:30:00",
         "note": "concert"
       }
     ],
@@ -1010,7 +1010,7 @@
     ],
     "dates": [
       {
-        "date": "September 16, 2019 6:30PM",
+        "date": "2019-09-16T19:30:00",
         "note": "concert"
       }
     ],
@@ -1037,11 +1037,11 @@
     ],
     "dates": [
       {
-        "date": "October 5, 2019 11AM",
+        "date": "2019-10-05T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "October 5, 2019 7:30PM",
+        "date": "2019-10-05T19:30:00",
         "note": "concert"
       }
     ],
@@ -1088,11 +1088,11 @@
     ],
     "dates": [
       {
-        "date": "October 12, 2019 2PM",
+        "date": "2019-10-12T14:00:00",
         "note": "concert"
       },
       {
-        "date": "October 13, 2019 2PM",
+        "date": "2019-10-13T14:00:00",
         "note": "concert"
       }
     ],
@@ -1123,7 +1123,7 @@
     ],
     "dates": [
       {
-        "date": "October 20, 2019",
+        "date": "2019-10-20T19:00:00",
         "note": "concert"
       }
     ],
@@ -1182,7 +1182,7 @@
     ],
     "dates": [
       {
-        "date": "October 27, 2019 1PM",
+        "date": "2019-10-27T13:00:00",
         "note": "concert"
       }
     ],
@@ -1221,11 +1221,11 @@
     ],
     "dates": [
       {
-        "date": "November 9, 2019 11AM",
+        "date": "2019-11-09T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "November 9, 2019 7:30PM",
+        "date": "2019-11-09T19:30:00",
         "note": "concert"
       }
     ],
@@ -1312,7 +1312,7 @@
     ],
     "dates": [
       {
-        "date": "November 16, 2019 7:30PM",
+        "date": "2019-11-16T19:30:00",
         "note": "concert"
       }
     ],
@@ -1368,7 +1368,7 @@
     ],
     "dates": [
       {
-        "date": "December 1, 2019 7PM",
+        "date": "2019-12-01T19:00:00",
         "note": "concert"
       }
     ],
@@ -1395,15 +1395,15 @@
     ],
     "dates": [
       {
-        "date": "December 13, 2019 7PM",
+        "date": "2019-12-13T19:00:00",
         "note": "concert"
       },
       {
-        "date": "December 14, 2019 2PM",
+        "date": "2019-12-14T14:00:00",
         "note": "concert"
       },
       {
-        "date": "December 14, 2019 7PM",
+        "date": "2019-12-14T19:00:00",
         "note": "concert"
       }
     ],
@@ -1430,15 +1430,15 @@
     ],
     "dates": [
       {
-        "date": "December 21, 2019 2PM",
+        "date": "2019-12-21T14:00:00",
         "note": "concert"
       },
       {
-        "date": "December 21, 2019 7PM",
+        "date": "2019-12-21T19:00:00",
         "note": "concert"
       },
       {
-        "date": "December 22, 2019 2PM",
+        "date": "2019-12-22T14:00:00",
         "note": "concert"
       }
     ],
@@ -1469,7 +1469,7 @@
     ],
     "dates": [
       {
-        "date": "December 31, 2019 7:30PM",
+        "date": "2019-12-31T19:30:00",
         "note": "concert"
       }
     ],
@@ -1582,7 +1582,7 @@
     ],
     "dates": [
       {
-        "date": "January 18, 2020 7:30 PM",
+        "date": "2020-01-18T19:30:00",
         "note": "concert"
       }
     ],
@@ -1717,11 +1717,11 @@
     ],
     "dates": [
       {
-        "date": "February 1, 2020 11AM",
+        "date": "2020-02-01T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "February 1, 2020 7:30PM",
+        "date": "2020-02-01T19:30:00",
         "note": "concert"
       }
     ],
@@ -1779,7 +1779,7 @@
     ],
     "dates": [
       {
-        "date": "February 8, 2020 2PM",
+        "date": "2020-02-08T14:00:00",
         "note": "concert"
       }
     ],
@@ -1835,17 +1835,17 @@
         "instrument": "conductor"
       },
       {
-        "name": "Cirque de al Symphonie",
+        "name": "Cirque de la Symphonie",
         "instrument": "acrobatics troupe"
       }
     ],
     "dates": [
       {
-        "date": "February 21, 2020 10AM",
+        "date": "2020-02-21T10:00:00",
         "note": "concert"
       },
       {
-        "date": "February 22, 2020 7:30PM",
+        "date": "2020-02-22T19:30:00",
         "note": "concert"
       }
     ],
@@ -2002,11 +2002,11 @@
     ],
     "dates": [
       {
-        "date": "March 7, 2020, 11AM",
+        "date": "2020-03-07T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "March 7, 2020, 7:30PM",
+        "date": "2020-03-07T19:30:00",
         "note": "concert"
       }
     ],
@@ -2092,7 +2092,7 @@
     ],
     "dates": [
       {
-        "date": "October 30, 2020 7PM",
+        "date": "2020-10-30T19:00:00",
         "note": "concert"
       }
     ],
@@ -2127,7 +2127,7 @@
     ],
     "dates": [
       {
-        "date": "December 30, 2020",
+        "date": "2020-12-30T00:00:00",
         "note": "concert"
       }
     ],
@@ -2137,7 +2137,7 @@
   },
   {
     "organization": "San Bernardino Symphony",
-    "concert_title": null,
+    "concert_title": "Harmoniemusik",
     "guest_artists": [
       {
         "name": "Anthony Parnther",
@@ -2146,7 +2146,7 @@
     ],
     "dates": [
       {
-        "date": "April 23, 2021",
+        "date": "2021-04-23T00:00:00",
         "note": "concert"
       }
     ],
@@ -2185,7 +2185,7 @@
     ],
     "dates": [
       {
-        "date": "September 12, 2021 3PM",
+        "date": "2021-09-12T15:00:00",
         "note": "concert"
       }
     ],
@@ -2258,7 +2258,7 @@
     ],
     "dates": [
       {
-        "date": "October 17, 2021 5:30PM",
+        "date": "2021-10-17T17:30:00",
         "note": "concert"
       }
     ],
@@ -2324,7 +2324,7 @@
     ],
     "dates": [
       {
-        "date": "October 23, 2021 7:30PM",
+        "date": "2021-10-23T19:30:00",
         "note": "concert"
       }
     ],
@@ -2355,11 +2355,11 @@
     ],
     "dates": [
       {
-        "date": "November 13, 2021 11AM",
+        "date": "2021-11-13T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "November 13, 2021 7:30PM",
+        "date": "2021-11-13T19:30:00",
         "note": "concert"
       }
     ],
@@ -2459,7 +2459,7 @@
     ],
     "dates": [
       {
-        "date": "November 20, 2021 7:30PM",
+        "date": "2021-11-20T19:30:00",
         "note": "concert"
       }
     ],
@@ -2524,7 +2524,7 @@
     ],
     "dates": [
       {
-        "date": "December 5, 2021 7PM",
+        "date": "2021-12-05T19:00:00",
         "note": "concert"
       }
     ],
@@ -2559,7 +2559,7 @@
     ],
     "dates": [
       {
-        "date": "December 11, 2021 7:30PM",
+        "date": "2021-12-11T19:30:00",
         "note": "concert"
       }
     ],
@@ -2586,7 +2586,7 @@
     ],
     "dates": [
       {
-        "date": "December 18, 2021 7PM",
+        "date": "2021-12-18T19:00:00",
         "note": "concert"
       }
     ],
@@ -2613,7 +2613,7 @@
     ],
     "dates": [
       {
-        "date": "December 31, 2021 7:30PM",
+        "date": "2021-12-31T19:30:00",
         "note": "concert"
       }
     ],
@@ -2660,11 +2660,11 @@
     ],
     "dates": [
       {
-        "date": "March 5, 2022 11AM",
+        "date": "2022-03-05T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "March 5, 2022 7:30PM",
+        "date": "2022-03-05T19:30:00",
         "note": "concert"
       }
     ],
@@ -2748,7 +2748,7 @@
     ],
     "dates": [
       {
-        "date": "March 12, 2020 7:30PM",
+        "date": "2022-03-12T19:30:00",
         "note": "concert"
       }
     ],
@@ -2787,7 +2787,7 @@
     ],
     "dates": [
       {
-        "date": "April 24, 2022 3PM",
+        "date": "2022-04-24-15:00:00",
         "note": "concert"
       }
     ],
@@ -2849,11 +2849,11 @@
     ],
     "dates": [
       {
-        "date": "May 7, 2022 7PM",
+        "date": "2022-05-07T19:00:00",
         "note": "concert"
       },
       {
-        "date": "May 8, 2022 2PM",
+        "date": "2022-05-08T14:00:00",
         "note": "concert"
       }
     ],
@@ -2884,11 +2884,11 @@
     ],
     "dates": [
       {
-        "date": "May 14, 2022 11AM",
+        "date": "2022-05-14T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "May 14, 2022 7:30PM",
+        "date": "2022-05-14T19:30:00",
         "note": "concert"
       }
     ],
@@ -2953,7 +2953,7 @@
     ],
     "dates": [
       {
-        "date": "July 2, 2022 7:30PM",
+        "date": "2022-07-02T19:30:00",
         "note": "concert"
       }
     ],
@@ -2975,7 +2975,7 @@
     "guest_artists": [],
     "dates": [
       {
-        "date": "October 29, 2022 7:30PM",
+        "date": "2022-10-29T19:30:00",
         "note": "concert"
       }
     ],
@@ -3006,7 +3006,7 @@
     ],
     "dates": [
       {
-        "date": "December 17, 2022 7:30PM",
+        "date": "2022-12-17T19:30:00",
         "note": "concert"
       }
     ],
