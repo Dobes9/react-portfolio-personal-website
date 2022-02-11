@@ -1596,7 +1596,111 @@
       "country": "US"
     },
     "url": null,
-    "program": []
+    "program": [
+      {
+        "composer": "Samuel Coleridge Taylor",
+        "arranger": null,
+        "title": "Ballade in A minor",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "John Christopher Wineglass",
+        "arranger": null,
+        "title": "Unburied, Unmourned, Unmarked",
+        "selections": [
+          "I. The Middle Passage: Uprooted",
+          "II. Tones of the Rice Fields",
+          "III. Lament for Lost Souls"
+        ],
+        "length": 20
+      },
+      {
+        "composer": null,
+        "arranger": "David Lee",
+        "title": "Oh, Freedom",
+        "selections": [
+          "Lettrice Lawrence, vocalist",
+          "David Saul Lee, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Daivd Lee",
+        "title": "Free At Last",
+        "selections": [
+          "Selah Gospel Choir"
+        ],
+        "length": 1
+      },
+      {
+        "composer": null,
+        "arranger": "Jeremy Rubolino",
+        "title": "Strange Fruit",
+        "selections": [
+          "Jacob Lusk, vocalist"
+        ],
+        "length": 3
+      },
+      {
+        "composer": "Mahlia Jackson",
+        "arranger": "Kenneth Applegate",
+        "title": "A City Called Heaven",
+        "selections": [
+          "Bradley Baker, vocalist"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Kenneth Applegate",
+        "title": "Wade in the Water",
+        "selections": [
+          "Lettrice Lawrence, vocalist",
+          "Jacob Lusk, vocalist",
+          "Bradley Baker, vocalist"
+        ],
+        "length": 4
+      },
+      {
+        "composer": null,
+        "arranger": "Brian Hodge",
+        "title": "Glory",
+        "selections": [
+          "Jacob Lusk, vocalist",
+          "William Washington, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Daivd Lee",
+        "title": "MLK",
+        "selections": [
+          "David Lee, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Jeremy Rubolino",
+        "title": "Lift Every Voice and Sing",
+        "selections": [
+          "Daniel Beaty, vocalist",
+          "Jantre Haskin-Christian, vocalist",
+          "Lettrice Lawrence, vocalist",
+          "David Saul Lee, vocalist",
+          "Jacob Lusk, vocalist",
+          "Bradley Baker, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      }
+    ]
   },
   {
     "organization": "San Luis Obispo Symphony",
