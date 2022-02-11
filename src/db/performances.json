@@ -237,13 +237,17 @@
         "composer": "John Corigliano",
         "arranger": null,
         "title": "Clarinet Concerto",
-        "selections": ["I. Cadenzas", "II. Elegy", "III. Antiphonal Toccata"],
+        "selections": [
+          "I. Cadenzas",
+          "II. Elegy",
+          "III. Antiphonal Toccata"
+        ],
         "length": 30
       },
       {
-        "composer": "Sergei Rachmaninoff in A minor",
+        "composer": "Sergei Rachmaninoff",
         "arranger": null,
-        "title": "Symphony No. 3",
+        "title": "Symphony No. 3 in A minor",
         "selections": [
           "I. Lento - Allegro Moderato - Allegro",
           "II. Adagio ma non troppo - Allegro vivace",
@@ -445,7 +449,11 @@
         "composer": "Joaquin Turina",
         "arranger": null,
         "title": "Danzas Fantasticas Op. 22",
-        "selections": ["I. Exaltacion", "II. Ensueno", "III. Orgia"],
+        "selections": [
+          "I. Exaltacion",
+          "II. Ensueno",
+          "III. Orgia"
+        ],
         "length": 15
       },
       {
@@ -600,7 +608,10 @@
         "composer": "John Adams",
         "arranger": null,
         "title": "The Dharma at Big Sur",
-        "selections": ["I. A New Day", "II. Sri Moonshine"],
+        "selections": [
+          "I. A New Day",
+          "II. Sri Moonshine"
+        ],
         "length": 30
       }
     ]
@@ -1477,7 +1488,9 @@
         "composer": "Richard Strauss",
         "arranger": null,
         "title": "Also Sprach Zarathustra",
-        "selections": ["Opening"],
+        "selections": [
+          "Opening"
+        ],
         "length": "2 '"
       },
       {
@@ -1491,7 +1504,9 @@
         "composer": "John Williams",
         "arranger": null,
         "title": "Three Pieces from Schindler's List",
-        "selections": ["I. Theme"],
+        "selections": [
+          "I. Theme"
+        ],
         "length": 4
       },
       {
@@ -1519,7 +1534,9 @@
         "composer": "Nigel Hess",
         "arranger": null,
         "title": "Ladies in Lavender",
-        "selections": ["Fantasy"],
+        "selections": [
+          "Fantasy"
+        ],
         "length": 5
       },
       {
@@ -1547,7 +1564,9 @@
         "composer": "Trevor Jones",
         "arranger": null,
         "title": "Suite from The Last of the Mohicans",
-        "selections": ["V. Top of the World"],
+        "selections": [
+          "V. Top of the World"
+        ],
         "length": 3
       }
     ]
@@ -1736,7 +1755,129 @@
       "country": "US"
     },
     "url": null,
-    "program": []
+    "program": [
+      {
+        "composer": "Antonin Dvorak",
+        "arranger": null,
+        "title": "Carnival Overture, Op. 92",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Zequinha de Abreu",
+        "arranger": null,
+        "title": "Tico Tico No Fuba",
+        "selections": [],
+        "length": 2
+      },
+      {
+        "composer": "Sergei Rachmaninoff",
+        "arranger": null,
+        "title": "Vocalise, Op. 34, No. 14",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Georges Bizet",
+        "arranger": null,
+        "title": "Carmen Suite No. 1",
+        "selections": [
+          "Les Toreadors"
+        ],
+        "length": 3
+      },
+      {
+        "composer": "Georges Bizet",
+        "arranger": null,
+        "title": "Carmen Suite No. 2",
+        "selections": [
+          "Danse Boheme"
+        ],
+        "length": 4
+      },
+      {
+        "composer": "Aram Khachaturian",
+        "arranger": null,
+        "title": "Masquerade",
+        "selections": [
+          "Valse"
+        ],
+        "length": 4
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Marche Slave",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "Richard Wagner",
+        "arranger": null,
+        "title": "Die Walkure",
+        "selections": [
+          "Ride of the Valkyries"
+        ],
+        "length": 5
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Swan Lake",
+        "selections": [
+          "Danse des cygnes"
+        ],
+        "length": 2
+      },
+      {
+        "composer": "Mikhail Glinka",
+        "arranger": null,
+        "title": "Overture from Ruslan and Lyudmila",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "George Antheil",
+        "arranger": null,
+        "title": "Hot Time Dance",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "Nikolai Rimsky-Korsakov",
+        "arranger": null,
+        "title": "The Snow Maiden",
+        "selections": [
+          "Danse des Bouffons"
+        ],
+        "length": 4
+      },
+      {
+        "composer": "Johann Strauss II",
+        "arranger": null,
+        "title": "Thunder & Lightning Polka",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Aram Khachaturian",
+        "arranger": null,
+        "title": "Gayaneh",
+        "selections": [
+          "Sabre Dance"
+        ],
+        "length": 3
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Swan Lake",
+        "selections": [
+          "Valse"
+        ],
+        "length": 7
+      }
+    ]
   },
   {
     "organization": "San Luis Obispo Symphony",
@@ -1791,7 +1932,11 @@
         "composer": "W. A. Mozart",
         "arranger": null,
         "title": "Concerto for Flute and Harp in C Major, K. 299",
-        "selections": ["I. Allegro", "II. Andantino", "III. Rondeau - Allegro"],
+        "selections": [
+          "I. Allegro",
+          "II. Andantino",
+          "III. Rondeau - Allegro"
+        ],
         "length": 29
       },
       {
@@ -2136,7 +2281,9 @@
         "composer": "Warren Benson",
         "arranger": null,
         "title": "Three Pieces for Percussion Quartet",
-        "selections": ["Sherzino"],
+        "selections": [
+          "Sherzino"
+        ],
         "length": 1
       },
       {
@@ -2164,14 +2311,18 @@
         "composer": "Stefan Podell",
         "arranger": null,
         "title": "Concerto for Double Bass",
-        "selections": ["III"],
+        "selections": [
+          "III"
+        ],
         "length": 12
       },
       {
         "composer": "William Banfield",
         "arranger": null,
         "title": "Symphony No. 6",
-        "selections": ["II. In an Ellington Mood"],
+        "selections": [
+          "II. In an Ellington Mood"
+        ],
         "length": 10
       },
       {
@@ -2428,28 +2579,42 @@
         "composer": "Johann Sebastian Bach",
         "arranger": null,
         "title": "Concerto for Two Violins in D minor",
-        "selections": ["I. Vivace", "II. Largo ma non tanto", "III. Allegro"],
+        "selections": [
+          "I. Vivace",
+          "II. Largo ma non tanto",
+          "III. Allegro"
+        ],
         "length": 15
       },
       {
         "composer": "Henry Cowell",
         "arranger": null,
         "title": "Hymn and Fuguing Tune No. 10 for Oboe and Strings",
-        "selections": ["I. Hymn", "II. Fuguing Tune"],
+        "selections": [
+          "I. Hymn",
+          "II. Fuguing Tune"
+        ],
         "length": 6
       },
       {
         "composer": "Louise Farrenc",
         "arranger": null,
         "title": "Nonet in Eb Major",
-        "selections": ["I. Adagio - Allegro", "III. Scherzo. Vivace"],
+        "selections": [
+          "I. Adagio - Allegro",
+          "III. Scherzo. Vivace"
+        ],
         "length": 17
       },
       {
         "composer": "Arthur Honegger",
         "arranger": null,
         "title": "Sonata da Camera for Flute, English Horn, and Strings",
-        "selections": ["I. Allegretto amabile", "II. Andante", "III. Vivace"],
+        "selections": [
+          "I. Allegretto amabile",
+          "II. Andante",
+          "III. Vivace"
+        ],
         "length": 17
       },
       {
