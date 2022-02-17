@@ -14,7 +14,7 @@
     ],
     "dates": [
       {
-        "date": "September 24, 2017 4PM",
+        "date": "2017-09-24T16:00:00+0000",
         "note": "concert"
       }
     ],
@@ -67,11 +67,11 @@
     ],
     "dates": [
       {
-        "date": "February 17, 2018 2PM",
+        "date": "2018-02-17T14:00:00+0000",
         "note": "Family Music Adventure"
       },
       {
-        "date": "February 17 2018, 7PM",
+        "date": "2018-02-17T19:00:00+0000",
         "note": "concert"
       }
     ],
@@ -140,7 +140,7 @@
     ],
     "dates": [
       {
-        "date": "March 25, 2018 6:30PM",
+        "date": "2018-03-25T18:30:00+0000",
         "note": "concert"
       }
     ],
@@ -211,7 +211,7 @@
     ],
     "dates": [
       {
-        "date": "September 22, 2018, 6PM",
+        "date": "2018-09-22T19:00:00+0000",
         "note": "concert"
       }
     ],
@@ -237,13 +237,17 @@
         "composer": "John Corigliano",
         "arranger": null,
         "title": "Clarinet Concerto",
-        "selections": ["I. Cadenzas", "II. Elegy", "III. Antiphonal Toccata"],
+        "selections": [
+          "I. Cadenzas",
+          "II. Elegy",
+          "III. Antiphonal Toccata"
+        ],
         "length": 30
       },
       {
-        "composer": "Sergei Rachmaninoff in A minor",
+        "composer": "Sergei Rachmaninoff",
         "arranger": null,
-        "title": "Symphony No. 3",
+        "title": "Symphony No. 3 in A minor",
         "selections": [
           "I. Lento - Allegro Moderato - Allegro",
           "II. Adagio ma non troppo - Allegro vivace",
@@ -272,11 +276,11 @@
     ],
     "dates": [
       {
-        "date": "October 6, 2018 10AM",
+        "date": "2018-10-06T11:00:00+0000",
         "note": "open dress rehearsal"
       },
       {
-        "date": "October 6, 2018 6:30PM",
+        "date": "2018-10-06T19:30:00+0000",
         "note": "concert"
       }
     ],
@@ -327,11 +331,11 @@
     ],
     "dates": [
       {
-        "date": "November 10, 2018 11AM",
+        "date": "2018-11-10T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "November 10, 2018 7:30PM",
+        "date": "2018-11-10T19:30:00",
         "note": "concert"
       }
     ],
@@ -391,7 +395,7 @@
     ],
     "dates": [
       {
-        "date": "December 2, 2018 7PM",
+        "date": "2018-12-02T19:00:00",
         "note": "concert"
       }
     ],
@@ -422,11 +426,11 @@
     ],
     "dates": [
       {
-        "date": "February 2, 2019 11AM",
+        "date": "2019-02-02T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "February 2, 2019 7:30PM",
+        "date": "2019-02-02T19:30:00",
         "note": "concert"
       }
     ],
@@ -445,7 +449,11 @@
         "composer": "Joaquin Turina",
         "arranger": null,
         "title": "Danzas Fantasticas Op. 22",
-        "selections": ["I. Exaltacion", "II. Ensueno", "III. Orgia"],
+        "selections": [
+          "I. Exaltacion",
+          "II. Ensueno",
+          "III. Orgia"
+        ],
         "length": 15
       },
       {
@@ -500,7 +508,7 @@
     ],
     "dates": [
       {
-        "date": "February 23, 2019 7PM",
+        "date": "2019-02-23T19:00:00",
         "note": "concert"
       }
     ],
@@ -558,11 +566,11 @@
     ],
     "dates": [
       {
-        "date": "March 9, 2019 11AM",
+        "date": "2019-03-09T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "March 9, 2019 7:30PM",
+        "date": "2019-03-09T19:30:00",
         "note": "concert"
       }
     ],
@@ -600,7 +608,10 @@
         "composer": "John Adams",
         "arranger": null,
         "title": "The Dharma at Big Sur",
-        "selections": ["I. A New Day", "II. Sri Moonshine"],
+        "selections": [
+          "I. A New Day",
+          "II. Sri Moonshine"
+        ],
         "length": 30
       }
     ]
@@ -628,7 +639,7 @@
     ],
     "dates": [
       {
-        "date": "March 31, 2019 6PM",
+        "date": "2019-03-31T19:00:00",
         "note": "concert"
       }
     ],
@@ -684,7 +695,7 @@
     ],
     "dates": [
       {
-        "date": "April 8, 2019 6:30PM",
+        "date": "2019-04-08T19:30:00",
         "note": "concert"
       }
     ],
@@ -719,7 +730,7 @@
     ],
     "dates": [
       {
-        "date": "April 27, 2019 5PM",
+        "date": "2019-04-27T17:00:00",
         "note": "concert"
       }
     ],
@@ -775,11 +786,11 @@
     ],
     "dates": [
       {
-        "date": "May 4, 2019 10AM",
+        "date": "2019-05-04T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "May 4, 2019 6:30PM",
+        "date": "2019-05-04T19:30:00",
         "note": "concert"
       }
     ],
@@ -845,7 +856,7 @@
     ],
     "dates": [
       {
-        "date": "May 11, 2019, 3PM",
+        "date": "2019-05-11T15:00:00",
         "note": "concert"
       }
     ],
@@ -930,7 +941,7 @@
     ],
     "dates": [
       {
-        "date": "August 31, 2019 3PM",
+        "date": "2019-08-31T15:00:00",
         "note": "concert"
       }
     ],
@@ -948,7 +959,7 @@
   },
   {
     "organization": "San Bernardino Symphony",
-    "concert_title": null,
+    "concert_title": "Carmina Burana",
     "guest_artists": [
       {
         "name": "Anthony Parnther",
@@ -969,7 +980,7 @@
     ],
     "dates": [
       {
-        "date": "September 14, 2019 6:30PM",
+        "date": "2019-09-14T19:30:00",
         "note": "concert"
       }
     ],
@@ -1032,7 +1043,7 @@
     ],
     "dates": [
       {
-        "date": "September 16, 2019 6:30PM",
+        "date": "2019-09-16T19:30:00",
         "note": "concert"
       }
     ],
@@ -1059,11 +1070,11 @@
     ],
     "dates": [
       {
-        "date": "October 5, 2019 11AM",
+        "date": "2019-10-05T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "October 5, 2019 7:30PM",
+        "date": "2019-10-05T19:30:00",
         "note": "concert"
       }
     ],
@@ -1110,11 +1121,11 @@
     ],
     "dates": [
       {
-        "date": "October 12, 2019 2PM",
+        "date": "2019-10-12T14:00:00",
         "note": "concert"
       },
       {
-        "date": "October 13, 2019 2PM",
+        "date": "2019-10-13T14:00:00",
         "note": "concert"
       }
     ],
@@ -1145,7 +1156,7 @@
     ],
     "dates": [
       {
-        "date": "October 20, 2019",
+        "date": "2019-10-20T19:00:00",
         "note": "concert"
       }
     ],
@@ -1204,7 +1215,7 @@
     ],
     "dates": [
       {
-        "date": "October 27, 2019 1PM",
+        "date": "2019-10-27T13:00:00",
         "note": "concert"
       }
     ],
@@ -1243,11 +1254,11 @@
     ],
     "dates": [
       {
-        "date": "November 9, 2019 11AM",
+        "date": "2019-11-09T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "November 9, 2019 7:30PM",
+        "date": "2019-11-09T19:30:00",
         "note": "concert"
       }
     ],
@@ -1334,7 +1345,7 @@
     ],
     "dates": [
       {
-        "date": "November 16, 2019 7:30PM",
+        "date": "2019-11-16T19:30:00",
         "note": "concert"
       }
     ],
@@ -1390,7 +1401,7 @@
     ],
     "dates": [
       {
-        "date": "December 1, 2019 7PM",
+        "date": "2019-12-01T19:00:00",
         "note": "concert"
       }
     ],
@@ -1417,15 +1428,15 @@
     ],
     "dates": [
       {
-        "date": "December 13, 2019 7PM",
+        "date": "2019-12-13T19:00:00",
         "note": "concert"
       },
       {
-        "date": "December 14, 2019 2PM",
+        "date": "2019-12-14T14:00:00",
         "note": "concert"
       },
       {
-        "date": "December 14, 2019 7PM",
+        "date": "2019-12-14T19:00:00",
         "note": "concert"
       }
     ],
@@ -1452,15 +1463,15 @@
     ],
     "dates": [
       {
-        "date": "December 21, 2019 2PM",
+        "date": "2019-12-21T14:00:00",
         "note": "concert"
       },
       {
-        "date": "December 21, 2019 7PM",
+        "date": "2019-12-21T19:00:00",
         "note": "concert"
       },
       {
-        "date": "December 22, 2019 2PM",
+        "date": "2019-12-22T14:00:00",
         "note": "concert"
       }
     ],
@@ -1491,7 +1502,7 @@
     ],
     "dates": [
       {
-        "date": "December 31, 2019 7:30PM",
+        "date": "2019-12-31T19:30:00",
         "note": "concert"
       }
     ],
@@ -1510,7 +1521,9 @@
         "composer": "Richard Strauss",
         "arranger": null,
         "title": "Also Sprach Zarathustra",
-        "selections": ["Opening"],
+        "selections": [
+          "Opening"
+        ],
         "length": "2 '"
       },
       {
@@ -1524,7 +1537,9 @@
         "composer": "John Williams",
         "arranger": null,
         "title": "Three Pieces from Schindler's List",
-        "selections": ["I. Theme"],
+        "selections": [
+          "I. Theme"
+        ],
         "length": 4
       },
       {
@@ -1552,7 +1567,9 @@
         "composer": "Nigel Hess",
         "arranger": null,
         "title": "Ladies in Lavender",
-        "selections": ["Fantasy"],
+        "selections": [
+          "Fantasy"
+        ],
         "length": 5
       },
       {
@@ -1580,7 +1597,9 @@
         "composer": "Trevor Jones",
         "arranger": null,
         "title": "Suite from The Last of the Mohicans",
-        "selections": ["V. Top of the World"],
+        "selections": [
+          "V. Top of the World"
+        ],
         "length": 3
       }
     ]
@@ -1596,7 +1615,7 @@
     ],
     "dates": [
       {
-        "date": "January 18, 2020 7:30 PM",
+        "date": "2020-01-18T19:30:00",
         "note": "concert"
       }
     ],
@@ -1610,7 +1629,111 @@
       "country": "US"
     },
     "url": null,
-    "program": []
+    "program": [
+      {
+        "composer": "Samuel Coleridge Taylor",
+        "arranger": null,
+        "title": "Ballade in A minor",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "John Christopher Wineglass",
+        "arranger": null,
+        "title": "Unburied, Unmourned, Unmarked",
+        "selections": [
+          "I. The Middle Passage: Uprooted",
+          "II. Tones of the Rice Fields",
+          "III. Lament for Lost Souls"
+        ],
+        "length": 20
+      },
+      {
+        "composer": null,
+        "arranger": "David Lee",
+        "title": "Oh, Freedom",
+        "selections": [
+          "Lettrice Lawrence, vocalist",
+          "David Saul Lee, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Daivd Lee",
+        "title": "Free At Last",
+        "selections": [
+          "Selah Gospel Choir"
+        ],
+        "length": 1
+      },
+      {
+        "composer": null,
+        "arranger": "Jeremy Rubolino",
+        "title": "Strange Fruit",
+        "selections": [
+          "Jacob Lusk, vocalist"
+        ],
+        "length": 3
+      },
+      {
+        "composer": "Mahlia Jackson",
+        "arranger": "Kenneth Applegate",
+        "title": "A City Called Heaven",
+        "selections": [
+          "Bradley Baker, vocalist"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Kenneth Applegate",
+        "title": "Wade in the Water",
+        "selections": [
+          "Lettrice Lawrence, vocalist",
+          "Jacob Lusk, vocalist",
+          "Bradley Baker, vocalist"
+        ],
+        "length": 4
+      },
+      {
+        "composer": null,
+        "arranger": "Brian Hodge",
+        "title": "Glory",
+        "selections": [
+          "Jacob Lusk, vocalist",
+          "William Washington, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Daivd Lee",
+        "title": "MLK",
+        "selections": [
+          "David Lee, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      },
+      {
+        "composer": null,
+        "arranger": "Jeremy Rubolino",
+        "title": "Lift Every Voice and Sing",
+        "selections": [
+          "Daniel Beaty, vocalist",
+          "Jantre Haskin-Christian, vocalist",
+          "Lettrice Lawrence, vocalist",
+          "David Saul Lee, vocalist",
+          "Jacob Lusk, vocalist",
+          "Bradley Baker, vocalist",
+          "Selah Gospel Choir"
+        ],
+        "length": 3
+      }
+    ]
   },
   {
     "organization": "San Luis Obispo Symphony",
@@ -1627,11 +1750,11 @@
     ],
     "dates": [
       {
-        "date": "February 1, 2020 11AM",
+        "date": "2020-02-01T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "February 1, 2020 7:30PM",
+        "date": "2020-02-01T19:30:00",
         "note": "concert"
       }
     ],
@@ -1689,7 +1812,7 @@
     ],
     "dates": [
       {
-        "date": "February 8, 2020 2PM",
+        "date": "2020-02-08T14:00:00",
         "note": "concert"
       }
     ],
@@ -1745,17 +1868,17 @@
         "instrument": "conductor"
       },
       {
-        "name": "Cirque de al Symphonie",
+        "name": "Cirque de la Symphonie",
         "instrument": "acrobatics troupe"
       }
     ],
     "dates": [
       {
-        "date": "February 21, 2020 10AM",
+        "date": "2020-02-21T10:00:00",
         "note": "concert"
       },
       {
-        "date": "February 22, 2020 7:30PM",
+        "date": "2020-02-22T19:30:00",
         "note": "concert"
       }
     ],
@@ -1769,7 +1892,129 @@
       "country": "US"
     },
     "url": null,
-    "program": []
+    "program": [
+      {
+        "composer": "Antonin Dvorak",
+        "arranger": null,
+        "title": "Carnival Overture, Op. 92",
+        "selections": [],
+        "length": 10
+      },
+      {
+        "composer": "Zequinha de Abreu",
+        "arranger": null,
+        "title": "Tico Tico No Fuba",
+        "selections": [],
+        "length": 2
+      },
+      {
+        "composer": "Sergei Rachmaninoff",
+        "arranger": null,
+        "title": "Vocalise, Op. 34, No. 14",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Georges Bizet",
+        "arranger": null,
+        "title": "Carmen Suite No. 1",
+        "selections": [
+          "Les Toreadors"
+        ],
+        "length": 3
+      },
+      {
+        "composer": "Georges Bizet",
+        "arranger": null,
+        "title": "Carmen Suite No. 2",
+        "selections": [
+          "Danse Boheme"
+        ],
+        "length": 4
+      },
+      {
+        "composer": "Aram Khachaturian",
+        "arranger": null,
+        "title": "Masquerade",
+        "selections": [
+          "Valse"
+        ],
+        "length": 4
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Marche Slave",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "Richard Wagner",
+        "arranger": null,
+        "title": "Die Walkure",
+        "selections": [
+          "Ride of the Valkyries"
+        ],
+        "length": 5
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Swan Lake",
+        "selections": [
+          "Danse des cygnes"
+        ],
+        "length": 2
+      },
+      {
+        "composer": "Mikhail Glinka",
+        "arranger": null,
+        "title": "Overture from Ruslan and Lyudmila",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "George Antheil",
+        "arranger": null,
+        "title": "Hot Time Dance",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "Nikolai Rimsky-Korsakov",
+        "arranger": null,
+        "title": "The Snow Maiden",
+        "selections": [
+          "Danse des Bouffons"
+        ],
+        "length": 4
+      },
+      {
+        "composer": "Johann Strauss II",
+        "arranger": null,
+        "title": "Thunder & Lightning Polka",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Aram Khachaturian",
+        "arranger": null,
+        "title": "Gayaneh",
+        "selections": [
+          "Sabre Dance"
+        ],
+        "length": 3
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Swan Lake",
+        "selections": [
+          "Valse"
+        ],
+        "length": 7
+      }
+    ]
   },
   {
     "organization": "San Luis Obispo Symphony",
@@ -1790,11 +2035,11 @@
     ],
     "dates": [
       {
-        "date": "March 7, 2020, 11AM",
+        "date": "2020-03-07T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "March 7, 2020, 7:30PM",
+        "date": "2020-03-07T19:30:00",
         "note": "concert"
       }
     ],
@@ -1824,7 +2069,11 @@
         "composer": "W. A. Mozart",
         "arranger": null,
         "title": "Concerto for Flute and Harp in C Major, K. 299",
-        "selections": ["I. Allegro", "II. Andantino", "III. Rondeau - Allegro"],
+        "selections": [
+          "I. Allegro",
+          "II. Andantino",
+          "III. Rondeau - Allegro"
+        ],
         "length": 29
       },
       {
@@ -1876,7 +2125,7 @@
     ],
     "dates": [
       {
-        "date": "October 30, 2020 7PM",
+        "date": "2020-10-30T19:00:00",
         "note": "concert"
       }
     ],
@@ -1911,7 +2160,7 @@
     ],
     "dates": [
       {
-        "date": "December 30, 2020",
+        "date": "2020-12-30T00:00:00",
         "note": "concert"
       }
     ],
@@ -1921,7 +2170,7 @@
   },
   {
     "organization": "San Bernardino Symphony",
-    "concert_title": null,
+    "concert_title": "Harmoniemusik",
     "guest_artists": [
       {
         "name": "Anthony Parnther",
@@ -1930,7 +2179,7 @@
     ],
     "dates": [
       {
-        "date": "April 23, 2021",
+        "date": "2021-04-23T00:00:00",
         "note": "concert"
       }
     ],
@@ -1969,7 +2218,7 @@
     ],
     "dates": [
       {
-        "date": "September 12, 2021 3PM",
+        "date": "2021-09-12T15:00:00",
         "note": "concert"
       }
     ],
@@ -2042,7 +2291,7 @@
     ],
     "dates": [
       {
-        "date": "October 17, 2021 5:30PM",
+        "date": "2021-10-17T17:30:00",
         "note": "concert"
       }
     ],
@@ -2108,7 +2357,7 @@
     ],
     "dates": [
       {
-        "date": "October 23, 2021 7:30PM",
+        "date": "2021-10-23T19:30:00",
         "note": "concert"
       }
     ],
@@ -2201,11 +2450,11 @@
     ],
     "dates": [
       {
-        "date": "November 13, 2021 11AM",
+        "date": "2021-11-13T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "November 13, 2021 7:30PM",
+        "date": "2021-11-13T19:30:00",
         "note": "concert"
       }
     ],
@@ -2231,7 +2480,9 @@
         "composer": "Warren Benson",
         "arranger": null,
         "title": "Three Pieces for Percussion Quartet",
-        "selections": ["Sherzino"],
+        "selections": [
+          "Sherzino"
+        ],
         "length": 1
       },
       {
@@ -2259,14 +2510,18 @@
         "composer": "Stefan Podell",
         "arranger": null,
         "title": "Concerto for Double Bass",
-        "selections": ["III"],
+        "selections": [
+          "III"
+        ],
         "length": 12
       },
       {
         "composer": "William Banfield",
         "arranger": null,
         "title": "Symphony No. 6",
-        "selections": ["II. In an Ellington Mood"],
+        "selections": [
+          "II. In an Ellington Mood"
+        ],
         "length": 10
       },
       {
@@ -2299,7 +2554,7 @@
     ],
     "dates": [
       {
-        "date": "November 20, 2021 7:30PM",
+        "date": "2021-11-20T19:30:00",
         "note": "concert"
       }
     ],
@@ -2364,7 +2619,7 @@
     ],
     "dates": [
       {
-        "date": "December 5, 2021 7PM",
+        "date": "2021-12-05T19:00:00",
         "note": "concert"
       }
     ],
@@ -2399,7 +2654,7 @@
     ],
     "dates": [
       {
-        "date": "December 11, 2021 7:30PM",
+        "date": "2021-12-11T19:30:00",
         "note": "concert"
       }
     ],
@@ -2497,7 +2752,7 @@
     ],
     "dates": [
       {
-        "date": "December 18, 2021 7PM",
+        "date": "2021-12-18T19:00:00",
         "note": "concert"
       }
     ],
@@ -2524,7 +2779,7 @@
     ],
     "dates": [
       {
-        "date": "December 31, 2021 7:30PM",
+        "date": "2021-12-31T19:30:00",
         "note": "concert"
       }
     ],
@@ -2571,11 +2826,11 @@
     ],
     "dates": [
       {
-        "date": "March 5, 2022 11AM",
+        "date": "2022-03-05T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "March 5, 2022 7:30PM",
+        "date": "2022-03-05T19:30:00",
         "note": "concert"
       }
     ],
@@ -2594,28 +2849,42 @@
         "composer": "Johann Sebastian Bach",
         "arranger": null,
         "title": "Concerto for Two Violins in D minor",
-        "selections": ["I. Vivace", "II. Largo ma non tanto", "III. Allegro"],
+        "selections": [
+          "I. Vivace",
+          "II. Largo ma non tanto",
+          "III. Allegro"
+        ],
         "length": 15
       },
       {
         "composer": "Henry Cowell",
         "arranger": null,
         "title": "Hymn and Fuguing Tune No. 10 for Oboe and Strings",
-        "selections": ["I. Hymn", "II. Fuguing Tune"],
+        "selections": [
+          "I. Hymn",
+          "II. Fuguing Tune"
+        ],
         "length": 6
       },
       {
         "composer": "Louise Farrenc",
         "arranger": null,
         "title": "Nonet in Eb Major",
-        "selections": ["I. Adagio - Allegro", "III. Scherzo. Vivace"],
+        "selections": [
+          "I. Adagio - Allegro",
+          "III. Scherzo. Vivace"
+        ],
         "length": 17
       },
       {
         "composer": "Arthur Honegger",
         "arranger": null,
         "title": "Sonata da Camera for Flute, English Horn, and Strings",
-        "selections": ["I. Allegretto amabile", "II. Andante", "III. Vivace"],
+        "selections": [
+          "I. Allegretto amabile",
+          "II. Andante",
+          "III. Vivace"
+        ],
         "length": 17
       },
       {
@@ -2645,7 +2914,7 @@
     ],
     "dates": [
       {
-        "date": "March 12, 2022 7:30PM",
+        "date": "2022-03-12T19:30:00",
         "note": "concert"
       }
     ],
@@ -2684,7 +2953,7 @@
     ],
     "dates": [
       {
-        "date": "April 24, 2022 3PM",
+        "date": "2022-04-24-15:00:00",
         "note": "concert"
       }
     ],
@@ -2746,11 +3015,11 @@
     ],
     "dates": [
       {
-        "date": "May 7, 2022 7PM",
+        "date": "2022-05-07T19:00:00",
         "note": "concert"
       },
       {
-        "date": "May 8, 2022 2PM",
+        "date": "2022-05-08T14:00:00",
         "note": "concert"
       }
     ],
@@ -2781,11 +3050,11 @@
     ],
     "dates": [
       {
-        "date": "May 14, 2022 11AM",
+        "date": "2022-05-14T11:00:00",
         "note": "open dress rehearsal"
       },
       {
-        "date": "May 14, 2022 7:30PM",
+        "date": "2022-05-14T19:30:00",
         "note": "concert"
       }
     ],
@@ -2850,7 +3119,7 @@
     ],
     "dates": [
       {
-        "date": "July 2, 2022 7:30PM",
+        "date": "2022-07-02T19:30:00",
         "note": "concert"
       }
     ],
@@ -2872,7 +3141,7 @@
     "guest_artists": [],
     "dates": [
       {
-        "date": "October 29, 2022 7:30PM",
+        "date": "2022-10-29T19:30:00",
         "note": "concert"
       }
     ],
@@ -2903,7 +3172,7 @@
     ],
     "dates": [
       {
-        "date": "December 17, 2022 7:30PM",
+        "date": "2022-12-17T19:30:00",
         "note": "concert"
       }
     ],
@@ -2917,6 +3186,96 @@
       "country": "US"
     },
     "url": "https://app.arts-people.com/index.php?actions=4&p=106",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Tribute to Beethoven",
+    "guest_artists": [
+      {
+        "name": "Dmitry Rachmanov",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-10-03T00:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://vimeo.com/ondemand/slosymphony/",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Music of America",
+    "guest_artists": [
+      {
+        "name": "Alpin Hong",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2020-11-14T00:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://vimeo.com/ondemand/slosymphony/",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Mozart and More",
+    "guest_artists": [
+      {
+        "name": "Amit Peled",
+        "instrument": "cello"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-02-06T00:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://vimeo.com/ondemand/slosymphony/",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Romantic Classics",
+    "guest_artists": [
+      {
+        "name": "Gilles Apap",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2021-03-06T00:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://vimeo.com/ondemand/slosymphony/",
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Soirees Musicales",
+    "guest_artists": [],
+    "dates": [
+      {
+        "date": "2021-05-01T00:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": null,
+    "url": "https://vimeo.com/ondemand/slosymphony/",
     "program": []
   }
 ]
