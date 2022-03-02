@@ -237,11 +237,7 @@
         "composer": "John Corigliano",
         "arranger": null,
         "title": "Clarinet Concerto",
-        "selections": [
-          "I. Cadenzas",
-          "II. Elegy",
-          "III. Antiphonal Toccata"
-        ],
+        "selections": ["I. Cadenzas", "II. Elegy", "III. Antiphonal Toccata"],
         "length": 30
       },
       {
@@ -449,11 +445,7 @@
         "composer": "Joaquin Turina",
         "arranger": null,
         "title": "Danzas Fantasticas Op. 22",
-        "selections": [
-          "I. Exaltacion",
-          "II. Ensueno",
-          "III. Orgia"
-        ],
+        "selections": ["I. Exaltacion", "II. Ensueno", "III. Orgia"],
         "length": 15
       },
       {
@@ -608,10 +600,7 @@
         "composer": "John Adams",
         "arranger": null,
         "title": "The Dharma at Big Sur",
-        "selections": [
-          "I. A New Day",
-          "II. Sri Moonshine"
-        ],
+        "selections": ["I. A New Day", "II. Sri Moonshine"],
         "length": 30
       }
     ]
@@ -1521,9 +1510,7 @@
         "composer": "Richard Strauss",
         "arranger": null,
         "title": "Also Sprach Zarathustra",
-        "selections": [
-          "Opening"
-        ],
+        "selections": ["Opening"],
         "length": "2 '"
       },
       {
@@ -1537,9 +1524,7 @@
         "composer": "John Williams",
         "arranger": null,
         "title": "Three Pieces from Schindler's List",
-        "selections": [
-          "I. Theme"
-        ],
+        "selections": ["I. Theme"],
         "length": 4
       },
       {
@@ -1567,9 +1552,7 @@
         "composer": "Nigel Hess",
         "arranger": null,
         "title": "Ladies in Lavender",
-        "selections": [
-          "Fantasy"
-        ],
+        "selections": ["Fantasy"],
         "length": 5
       },
       {
@@ -1597,9 +1580,7 @@
         "composer": "Trevor Jones",
         "arranger": null,
         "title": "Suite from The Last of the Mohicans",
-        "selections": [
-          "V. Top of the World"
-        ],
+        "selections": ["V. Top of the World"],
         "length": 3
       }
     ]
@@ -1663,27 +1644,21 @@
         "composer": null,
         "arranger": "Daivd Lee",
         "title": "Free At Last",
-        "selections": [
-          "Selah Gospel Choir"
-        ],
+        "selections": ["Selah Gospel Choir"],
         "length": 1
       },
       {
         "composer": null,
         "arranger": "Jeremy Rubolino",
         "title": "Strange Fruit",
-        "selections": [
-          "Jacob Lusk, vocalist"
-        ],
+        "selections": ["Jacob Lusk, vocalist"],
         "length": 3
       },
       {
         "composer": "Mahlia Jackson",
         "arranger": "Kenneth Applegate",
         "title": "A City Called Heaven",
-        "selections": [
-          "Bradley Baker, vocalist"
-        ],
+        "selections": ["Bradley Baker, vocalist"],
         "length": 3
       },
       {
@@ -1712,10 +1687,7 @@
         "composer": null,
         "arranger": "Daivd Lee",
         "title": "MLK",
-        "selections": [
-          "David Lee, vocalist",
-          "Selah Gospel Choir"
-        ],
+        "selections": ["David Lee, vocalist", "Selah Gospel Choir"],
         "length": 3
       },
       {
@@ -1918,27 +1890,21 @@
         "composer": "Georges Bizet",
         "arranger": null,
         "title": "Carmen Suite No. 1",
-        "selections": [
-          "Les Toreadors"
-        ],
+        "selections": ["Les Toreadors"],
         "length": 3
       },
       {
         "composer": "Georges Bizet",
         "arranger": null,
         "title": "Carmen Suite No. 2",
-        "selections": [
-          "Danse Boheme"
-        ],
+        "selections": ["Danse Boheme"],
         "length": 4
       },
       {
         "composer": "Aram Khachaturian",
         "arranger": null,
         "title": "Masquerade",
-        "selections": [
-          "Valse"
-        ],
+        "selections": ["Valse"],
         "length": 4
       },
       {
@@ -1952,18 +1918,14 @@
         "composer": "Richard Wagner",
         "arranger": null,
         "title": "Die Walkure",
-        "selections": [
-          "Ride of the Valkyries"
-        ],
+        "selections": ["Ride of the Valkyries"],
         "length": 5
       },
       {
         "composer": "Pyotr Ilyich Tchaikovsky",
         "arranger": null,
         "title": "Swan Lake",
-        "selections": [
-          "Danse des cygnes"
-        ],
+        "selections": ["Danse des cygnes"],
         "length": 2
       },
       {
@@ -1984,9 +1946,7 @@
         "composer": "Nikolai Rimsky-Korsakov",
         "arranger": null,
         "title": "The Snow Maiden",
-        "selections": [
-          "Danse des Bouffons"
-        ],
+        "selections": ["Danse des Bouffons"],
         "length": 4
       },
       {
@@ -2000,18 +1960,14 @@
         "composer": "Aram Khachaturian",
         "arranger": null,
         "title": "Gayaneh",
-        "selections": [
-          "Sabre Dance"
-        ],
+        "selections": ["Sabre Dance"],
         "length": 3
       },
       {
         "composer": "Pyotr Ilyich Tchaikovsky",
         "arranger": null,
         "title": "Swan Lake",
-        "selections": [
-          "Valse"
-        ],
+        "selections": ["Valse"],
         "length": 7
       }
     ]
@@ -2069,11 +2025,7 @@
         "composer": "W. A. Mozart",
         "arranger": null,
         "title": "Concerto for Flute and Harp in C Major, K. 299",
-        "selections": [
-          "I. Allegro",
-          "II. Andantino",
-          "III. Rondeau - Allegro"
-        ],
+        "selections": ["I. Allegro", "II. Andantino", "III. Rondeau - Allegro"],
         "length": 29
       },
       {
@@ -2480,9 +2432,7 @@
         "composer": "Warren Benson",
         "arranger": null,
         "title": "Three Pieces for Percussion Quartet",
-        "selections": [
-          "Sherzino"
-        ],
+        "selections": ["Sherzino"],
         "length": 1
       },
       {
@@ -2510,18 +2460,14 @@
         "composer": "Stefan Podell",
         "arranger": null,
         "title": "Concerto for Double Bass",
-        "selections": [
-          "III"
-        ],
+        "selections": ["III"],
         "length": 12
       },
       {
         "composer": "William Banfield",
         "arranger": null,
         "title": "Symphony No. 6",
-        "selections": [
-          "II. In an Ellington Mood"
-        ],
+        "selections": ["II. In an Ellington Mood"],
         "length": 10
       },
       {
@@ -2849,42 +2795,28 @@
         "composer": "Johann Sebastian Bach",
         "arranger": null,
         "title": "Concerto for Two Violins in D minor",
-        "selections": [
-          "I. Vivace",
-          "II. Largo ma non tanto",
-          "III. Allegro"
-        ],
+        "selections": ["I. Vivace", "II. Largo ma non tanto", "III. Allegro"],
         "length": 15
       },
       {
         "composer": "Henry Cowell",
         "arranger": null,
         "title": "Hymn and Fuguing Tune No. 10 for Oboe and Strings",
-        "selections": [
-          "I. Hymn",
-          "II. Fuguing Tune"
-        ],
+        "selections": ["I. Hymn", "II. Fuguing Tune"],
         "length": 6
       },
       {
         "composer": "Louise Farrenc",
         "arranger": null,
         "title": "Nonet in Eb Major",
-        "selections": [
-          "I. Adagio - Allegro",
-          "III. Scherzo. Vivace"
-        ],
+        "selections": ["I. Adagio - Allegro", "III. Scherzo. Vivace"],
         "length": 17
       },
       {
         "composer": "Arthur Honegger",
         "arranger": null,
         "title": "Sonata da Camera for Flute, English Horn, and Strings",
-        "selections": [
-          "I. Allegretto amabile",
-          "II. Andante",
-          "III. Vivace"
-        ],
+        "selections": ["I. Allegretto amabile", "II. Andante", "III. Vivace"],
         "length": 17
       },
       {
@@ -3277,5 +3209,513 @@
     "location": null,
     "url": "https://vimeo.com/ondemand/slosymphony/",
     "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Avila Pops by the Sea",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Colin Guan",
+        "instrument": "cello"
+      },
+      {
+        "name": "Emily Lanzone",
+        "instrument": "violin"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-09-03T16:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Avila Beach Golf Resort",
+      "address_1": "6464 Ana Bay Road",
+      "address_2": null,
+      "city": "Avila Beach",
+      "state": "CA",
+      "zip": "93424",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Summon the Heroes",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Aaron Copland",
+        "arranger": null,
+        "title": "Our Town from On the Town",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "Aaron Copland",
+        "arranger": null,
+        "title": "Four Dance Episodes from Rodeo",
+        "selections": ["IV. Hoe-Down"],
+        "length": 3
+      },
+      {
+        "composer": "Antonin Dvorak",
+        "arranger": null,
+        "title": "Cello Concerto in B minor",
+        "selections": ["I. Allegro"],
+        "length": 15
+      },
+      {
+        "composer": "John Philip Sousa",
+        "arranger": null,
+        "title": "Washington Post March",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "John Williams",
+        "arranger": null,
+        "title": "Raider's March from Raiders of the Lost Ark",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Reinhold Gliere",
+        "arranger": null,
+        "title": "The Red Poppy Suite",
+        "selections": ["IV. Phoenix"],
+        "length": 4
+      },
+      {
+        "composer": "Elmer Bernstein",
+        "arranger": null,
+        "title": "Magnificent Seven Symphonic Suite",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "John Philip Sousa",
+        "arranger": null,
+        "title": "The Stars and Stripes Forever",
+        "selections": [],
+        "length": 3
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Beethoven's Seventh",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Richard Dobeck",
+        "instrument": "clarinet"
+      },
+      {
+        "name": "Lisa Nauful",
+        "instrument": "bassoon"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-10-08T11:00:00",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "2022-10-08T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Franz Joseph Haydn",
+        "arranger": null,
+        "title": "Symphony No. 13 in D Major",
+        "selections": [
+          "I. Allegro molto",
+          "II. Adagio cantabile",
+          "III. Menuetto",
+          "IV. Finale: Allegro molto"
+        ],
+        "length": 21
+      },
+      {
+        "composer": "Carl Stamitz",
+        "arranger": null,
+        "title": "Concerto for Clarinet and Bassoon",
+        "selections": [
+          "I. Allegro moderato",
+          "II. Andante moderato",
+          "III. Rondo"
+        ],
+        "length": 20
+      },
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Symphony No. 7 in A Major",
+        "selections": [
+          "I. Poco sostenuto - Vivace",
+          "II. Allegretto",
+          "III. Presto",
+          "IV. Allegro con brio"
+        ],
+        "length": 34
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "East meets West - Gershwin and Tsfasman",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Ilya Yakushev",
+        "instrument": "piano"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-11-12T11:00:00",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "2022-11-12T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Valerie Coleman",
+        "arranger": null,
+        "title": "Umoja",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "George Gershwin",
+        "arranger": null,
+        "title": "Piano Concerto in F",
+        "selections": [
+          "I. Allegro",
+          "II. Adagio - Andante con moto",
+          "III. Allegro agitato"
+        ],
+        "length": 30
+      },
+      {
+        "composer": "Alexander Tsfasman",
+        "arranger": null,
+        "title": "Jazz Suite for Piano and Orchestra",
+        "selections": [
+          "I. Snowflake",
+          "II. Lyrical Valse",
+          "III. Polka",
+          "IV. Fast Movement"
+        ],
+        "length": 18
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Capriccio Italien",
+        "selections": [],
+        "length": 16
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "TBA Pops",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-12-31T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": null,
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-04-11T19:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": []
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Cello on Fire - with Amit Peled",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Amit Peled",
+        "instrument": "cello"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2023-02-04T11:00:00",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "2023-02-04T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Johannes Brahms",
+        "arranger": null,
+        "title": "Variations on a Theme by Haydn",
+        "selections": [],
+        "length": 16
+      },
+      {
+        "composer": "Dmitry Shostakovich",
+        "arranger": null,
+        "title": "Cello Concerto No. 1",
+        "selections": [
+          "I. Allegretto",
+          "II. Moderato",
+          "III. Cadenza - Attaca",
+          "IV. Allegro con moto"
+        ],
+        "length": 30
+      },
+      {
+        "composer": "Ralph Vaughan-Williams",
+        "arranger": null,
+        "title": "Fantasia on Greensleeves",
+        "selections": [],
+        "length": 6
+      },
+      {
+        "composer": "Douglas Lilburn",
+        "arranger": null,
+        "title": "Symphony No. 2",
+        "selections": [
+          "I. Prelude: Moderato",
+          "II. Scherzo: Allegro vivace",
+          "III. Introduction: Poco lento",
+          "IV. Finale: Allegro"
+        ],
+        "length": 29
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Testimony of Tone, Schumann and the New World",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Mischa Lefkowitz",
+        "instrument": "violin"
+      },
+      {
+        "name": "Anthony Yi",
+        "instrument": "saxophone"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2023-03-04T11:00:00",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "2023-03-04T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "William Banfield",
+        "arranger": null,
+        "title": "Testimony of Tone, Tune and Time",
+        "selections": [],
+        "length": 12
+      },
+      {
+        "composer": "Robert Schumann",
+        "arranger": null,
+        "title": "Violin Concerto (Arrangement of Cello Concerto in A minor)",
+        "selections": [
+          "I. Nicht zu schnell",
+          "II. Langsam",
+          "III. Sehr lebhaft"
+        ],
+        "length": 25
+      },
+      {
+        "composer": "Antonin Dvorak",
+        "arranger": null,
+        "title": "Symphony No. 9 'From the New World'",
+        "selections": [
+          "I. Adagio - Allegro",
+          "II. Largo",
+          "III. Scherzo: Molto vivace",
+          "IV. Finale: Allegro con fuoco"
+        ],
+        "length": 40
+      }
+    ]
+  },
+  {
+    "organization": "San Luis Obispo Symphony",
+    "concert_title": "Tchaikovsky's Fourth",
+    "guest_artists": [
+      {
+        "name": "Andrew Sewell",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2023-05-06T11:00:00",
+        "note": "open dress rehearsal"
+      },
+      {
+        "date": "2023-05-06T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Performing Arts Center",
+      "address_1": "1 Grand Avenue",
+      "address_2": null,
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93405",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Patrice Rushen",
+        "arranger": null,
+        "title": "Sinfonia",
+        "selections": [],
+        "length": 15
+      },
+      {
+        "composer": "Paul Hindemith",
+        "arranger": null,
+        "title": "Symphonic Metamorphosis of Themes by Carl Maria von Weber",
+        "selections": [
+          "I. Allegro",
+          "II. Scherzo",
+          "III. Andantino",
+          "IV. Marsch"
+        ],
+        "length": 22
+      },
+      {
+        "composer": "Pyotr Ilyich Tchaikovsky",
+        "arranger": null,
+        "title": "Symphony No. 4 in F minor",
+        "selections": [
+          "I. Andante sostenuto",
+          "II. Andantino in modo di canzona",
+          "III. Scherzo: Pizzicato ostinato",
+          "IV. Finale: Allegro con fuoco"
+        ],
+        "length": 44
+      }
+    ]
   }
 ]
