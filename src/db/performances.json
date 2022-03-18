@@ -3833,5 +3833,52 @@
         "length": 20
       }
     ]
+  },
+  {
+    "organization": "Symphony of the Vines",
+    "concert_title": "Joyful Beethoven",
+    "guest_artists": [
+      {
+        "name": "Greg Magie",
+        "instrument": "conductor"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-05-27T18:00:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Mission San Miguel Arcangel",
+      "address_1": "775 Mission St",
+      "address_2": null,
+      "city": "Paso Robles",
+      "state": "CA",
+      "zip": "93451",
+      "country": "US"
+    },
+    "url": "https://www.symphonyofthevines.org/events/symphony-of-the-vines-fundraising-event-h2z4a-mrhak-2pb75-89tcr",
+    "program": [
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Fidelio",
+        "selections": [],
+        "length": 20
+      },
+      {
+        "composer": "Ludwig van Beethoven",
+        "arranger": null,
+        "title": "Symphony No. 9",
+        "selections": [
+          "I. Allegro ma non troppo, un poco maestoso",
+          "II. Molto vivace",
+          "III. Adagio molto e cantabile",
+          "IV. Finale"
+        ],
+        "length": 70
+      }
+    ]
   }
 ]
