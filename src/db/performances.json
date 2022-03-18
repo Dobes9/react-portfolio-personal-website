@@ -237,11 +237,7 @@
         "composer": "John Corigliano",
         "arranger": null,
         "title": "Clarinet Concerto",
-        "selections": [
-          "I. Cadenzas",
-          "II. Elegy",
-          "III. Antiphonal Toccata"
-        ],
+        "selections": ["I. Cadenzas", "II. Elegy", "III. Antiphonal Toccata"],
         "length": 30
       },
       {
@@ -449,11 +445,7 @@
         "composer": "Joaquin Turina",
         "arranger": null,
         "title": "Danzas Fantasticas Op. 22",
-        "selections": [
-          "I. Exaltacion",
-          "II. Ensueno",
-          "III. Orgia"
-        ],
+        "selections": ["I. Exaltacion", "II. Ensueno", "III. Orgia"],
         "length": 15
       },
       {
@@ -608,10 +600,7 @@
         "composer": "John Adams",
         "arranger": null,
         "title": "The Dharma at Big Sur",
-        "selections": [
-          "I. A New Day",
-          "II. Sri Moonshine"
-        ],
+        "selections": ["I. A New Day", "II. Sri Moonshine"],
         "length": 30
       }
     ]
@@ -1006,9 +995,7 @@
         "composer": "Edward Elgar",
         "arranger": null,
         "title": "Enigma Variations",
-        "selections": [
-          "IX. Nimrod"
-        ],
+        "selections": ["IX. Nimrod"],
         "length": 3
       },
       {
@@ -1022,9 +1009,7 @@
         "composer": "Michael Barry",
         "arranger": null,
         "title": "Arise",
-        "selections": [
-          "Commissioned World Premiere"
-        ],
+        "selections": ["Commissioned World Premiere"],
         "length": 4
       },
       {
@@ -1525,9 +1510,7 @@
         "composer": "Richard Strauss",
         "arranger": null,
         "title": "Also Sprach Zarathustra",
-        "selections": [
-          "Opening"
-        ],
+        "selections": ["Opening"],
         "length": "2 '"
       },
       {
@@ -1541,9 +1524,7 @@
         "composer": "John Williams",
         "arranger": null,
         "title": "Three Pieces from Schindler's List",
-        "selections": [
-          "I. Theme"
-        ],
+        "selections": ["I. Theme"],
         "length": 4
       },
       {
@@ -1571,9 +1552,7 @@
         "composer": "Nigel Hess",
         "arranger": null,
         "title": "Ladies in Lavender",
-        "selections": [
-          "Fantasy"
-        ],
+        "selections": ["Fantasy"],
         "length": 5
       },
       {
@@ -1601,9 +1580,7 @@
         "composer": "Trevor Jones",
         "arranger": null,
         "title": "Suite from The Last of the Mohicans",
-        "selections": [
-          "V. Top of the World"
-        ],
+        "selections": ["V. Top of the World"],
         "length": 3
       }
     ]
@@ -1667,27 +1644,21 @@
         "composer": null,
         "arranger": "Daivd Lee",
         "title": "Free At Last",
-        "selections": [
-          "Selah Gospel Choir"
-        ],
+        "selections": ["Selah Gospel Choir"],
         "length": 1
       },
       {
         "composer": null,
         "arranger": "Jeremy Rubolino",
         "title": "Strange Fruit",
-        "selections": [
-          "Jacob Lusk, vocalist"
-        ],
+        "selections": ["Jacob Lusk, vocalist"],
         "length": 3
       },
       {
         "composer": "Mahlia Jackson",
         "arranger": "Kenneth Applegate",
         "title": "A City Called Heaven",
-        "selections": [
-          "Bradley Baker, vocalist"
-        ],
+        "selections": ["Bradley Baker, vocalist"],
         "length": 3
       },
       {
@@ -1716,10 +1687,7 @@
         "composer": null,
         "arranger": "Daivd Lee",
         "title": "MLK",
-        "selections": [
-          "David Lee, vocalist",
-          "Selah Gospel Choir"
-        ],
+        "selections": ["David Lee, vocalist", "Selah Gospel Choir"],
         "length": 3
       },
       {
@@ -1922,27 +1890,21 @@
         "composer": "Georges Bizet",
         "arranger": null,
         "title": "Carmen Suite No. 1",
-        "selections": [
-          "Les Toreadors"
-        ],
+        "selections": ["Les Toreadors"],
         "length": 3
       },
       {
         "composer": "Georges Bizet",
         "arranger": null,
         "title": "Carmen Suite No. 2",
-        "selections": [
-          "Danse Boheme"
-        ],
+        "selections": ["Danse Boheme"],
         "length": 4
       },
       {
         "composer": "Aram Khachaturian",
         "arranger": null,
         "title": "Masquerade",
-        "selections": [
-          "Valse"
-        ],
+        "selections": ["Valse"],
         "length": 4
       },
       {
@@ -1956,18 +1918,14 @@
         "composer": "Richard Wagner",
         "arranger": null,
         "title": "Die Walkure",
-        "selections": [
-          "Ride of the Valkyries"
-        ],
+        "selections": ["Ride of the Valkyries"],
         "length": 5
       },
       {
         "composer": "Pyotr Ilyich Tchaikovsky",
         "arranger": null,
         "title": "Swan Lake",
-        "selections": [
-          "Danse des cygnes"
-        ],
+        "selections": ["Danse des cygnes"],
         "length": 2
       },
       {
@@ -1988,9 +1946,7 @@
         "composer": "Nikolai Rimsky-Korsakov",
         "arranger": null,
         "title": "The Snow Maiden",
-        "selections": [
-          "Danse des Bouffons"
-        ],
+        "selections": ["Danse des Bouffons"],
         "length": 4
       },
       {
@@ -2004,18 +1960,14 @@
         "composer": "Aram Khachaturian",
         "arranger": null,
         "title": "Gayaneh",
-        "selections": [
-          "Sabre Dance"
-        ],
+        "selections": ["Sabre Dance"],
         "length": 3
       },
       {
         "composer": "Pyotr Ilyich Tchaikovsky",
         "arranger": null,
         "title": "Swan Lake",
-        "selections": [
-          "Valse"
-        ],
+        "selections": ["Valse"],
         "length": 7
       }
     ]
@@ -2073,11 +2025,7 @@
         "composer": "W. A. Mozart",
         "arranger": null,
         "title": "Concerto for Flute and Harp in C Major, K. 299",
-        "selections": [
-          "I. Allegro",
-          "II. Andantino",
-          "III. Rondeau - Allegro"
-        ],
+        "selections": ["I. Allegro", "II. Andantino", "III. Rondeau - Allegro"],
         "length": 29
       },
       {
@@ -2387,10 +2335,7 @@
         "composer": "Antonin Dvorak",
         "arranger": null,
         "title": "Symphony No. 9 'From the New World'",
-        "selections": [
-          "II. Largo",
-          "IV. Allegro con fuoco"
-        ],
+        "selections": ["II. Largo", "IV. Allegro con fuoco"],
         "length": 22
       },
       {
@@ -2437,9 +2382,7 @@
         "composer": "Leonard Bernstein",
         "arranger": null,
         "title": "Candide",
-        "selections": [
-          "Make our Garden Grow"
-        ],
+        "selections": ["Make our Garden Grow"],
         "length": 3
       }
     ]
@@ -2489,9 +2432,7 @@
         "composer": "Warren Benson",
         "arranger": null,
         "title": "Three Pieces for Percussion Quartet",
-        "selections": [
-          "Sherzino"
-        ],
+        "selections": ["Sherzino"],
         "length": 1
       },
       {
@@ -2519,18 +2460,14 @@
         "composer": "Stefan Podell",
         "arranger": null,
         "title": "Concerto for Double Bass",
-        "selections": [
-          "III"
-        ],
+        "selections": ["III"],
         "length": 12
       },
       {
         "composer": "William Banfield",
         "arranger": null,
         "title": "Symphony No. 6",
-        "selections": [
-          "II. In an Ellington Mood"
-        ],
+        "selections": ["II. In an Ellington Mood"],
         "length": 10
       },
       {
@@ -2858,42 +2795,28 @@
         "composer": "Johann Sebastian Bach",
         "arranger": null,
         "title": "Concerto for Two Violins in D minor",
-        "selections": [
-          "I. Vivace",
-          "II. Largo ma non tanto",
-          "III. Allegro"
-        ],
+        "selections": ["I. Vivace", "II. Largo ma non tanto", "III. Allegro"],
         "length": 15
       },
       {
         "composer": "Henry Cowell",
         "arranger": null,
         "title": "Hymn and Fuguing Tune No. 10 for Oboe and Strings",
-        "selections": [
-          "I. Hymn",
-          "II. Fuguing Tune"
-        ],
+        "selections": ["I. Hymn", "II. Fuguing Tune"],
         "length": 6
       },
       {
         "composer": "Louise Farrenc",
         "arranger": null,
         "title": "Nonet in Eb Major",
-        "selections": [
-          "I. Adagio - Allegro",
-          "III. Scherzo. Vivace"
-        ],
+        "selections": ["I. Adagio - Allegro", "III. Scherzo. Vivace"],
         "length": 17
       },
       {
         "composer": "Arthur Honegger",
         "arranger": null,
         "title": "Sonata da Camera for Flute, English Horn, and Strings",
-        "selections": [
-          "I. Allegretto amabile",
-          "II. Andante",
-          "III. Vivace"
-        ],
+        "selections": ["I. Allegretto amabile", "II. Andante", "III. Vivace"],
         "length": 17
       },
       {
@@ -2942,19 +2865,14 @@
         "composer": "Sergei Prokofiev",
         "arranger": null,
         "title": "Suite No. 2 from Romeo and Juliet",
-        "selections": [
-          "I. Montagues and Capulets",
-          "IV. Dance"
-        ],
+        "selections": ["I. Montagues and Capulets", "IV. Dance"],
         "length": 10
       },
       {
         "composer": "Sergei Prokofiev",
         "arranger": null,
         "title": "Suite No. 1 from Romeo and Juliet",
-        "selections": [
-          "VII. Death of Tybalt"
-        ],
+        "selections": ["VII. Death of Tybalt"],
         "length": 8
       },
       {
@@ -3385,18 +3303,14 @@
         "composer": "Aaron Copland",
         "arranger": null,
         "title": "Four Dance Episodes from Rodeo",
-        "selections": [
-          "IV. Hoe-Down"
-        ],
+        "selections": ["IV. Hoe-Down"],
         "length": 3
       },
       {
         "composer": "Antonin Dvorak",
         "arranger": null,
         "title": "Cello Concerto in B minor",
-        "selections": [
-          "I. Allegro"
-        ],
+        "selections": ["I. Allegro"],
         "length": 15
       },
       {
@@ -3417,9 +3331,7 @@
         "composer": "Reinhold Gliere",
         "arranger": null,
         "title": "The Red Poppy Suite",
-        "selections": [
-          "IV. Phoenix"
-        ],
+        "selections": ["IV. Phoenix"],
         "length": 4
       },
       {
@@ -3844,6 +3756,81 @@
           "IV. Finale: Allegro con fuoco"
         ],
         "length": 44
+      }
+    ]
+  },
+  {
+    "organization": "Sequoia Symphony",
+    "concert_title": "American Icons III",
+    "guest_artists": [
+      {
+        "name": "Bruce Kiesling",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Time for Three",
+        "instrument": null
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-04-09T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "Visalia Fox Theatre",
+      "address_1": "308 West Main Street",
+      "address_2": null,
+      "city": "Visalia",
+      "state": "CA",
+      "zip": "93291",
+      "country": "US"
+    },
+    "url": "https://www.sequoiasymphonyorchestra.com/season",
+    "program": [
+      {
+        "composer": "Charles Ives",
+        "arranger": null,
+        "title": "The Unanswered Question",
+        "selections": [],
+        "length": 8
+      },
+      {
+        "composer": "Charles Ives",
+        "arranger": null,
+        "title": "Variations on 'America'",
+        "selections": [],
+        "length": 7
+      },
+      {
+        "composer": "Leonard Bernstein",
+        "arranger": null,
+        "title": "Three Dance Episodes from 'On the Town'",
+        "selections": [
+          "I. Dance of the Great Lover",
+          "II. Pas de Deux",
+          "III. Times Square Ballet"
+        ],
+        "length": 10
+      },
+      {
+        "composer": "Joan Tower",
+        "arranger": null,
+        "title": "Made in America",
+        "selections": [],
+        "length": 13
+      },
+      {
+        "composer": "Jennifer Higdon",
+        "arranger": null,
+        "title": "Concerto 4 3",
+        "selections": [
+          "I. The Shallows",
+          "II. Little River",
+          "III. Roaring Smokies"
+        ],
+        "length": 20
       }
     ]
   }
