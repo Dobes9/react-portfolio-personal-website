@@ -3864,7 +3864,14 @@
         "composer": "Ludwig van Beethoven",
         "arranger": null,
         "title": "Fidelio",
-        "selections": [],
+        "selections": [
+          "Overture",
+          "No. 2 - Aria",
+          "No. 11 - Introduction and Aria",
+          "No. 13 - Trio",
+          "No. 15 - Duet",
+          "No. 16 - Finale"
+        ],
         "length": 20
       },
       {
