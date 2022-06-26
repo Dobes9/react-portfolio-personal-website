@@ -3887,5 +3887,130 @@
         "length": 70
       }
     ]
+  },
+  {
+    "organization": "Lompoc Pops Orchestra",
+    "concert_title": "Summer Spectacular",
+    "guest_artists": [
+      {
+        "name": "Dr. Asher Brian Alhadeff",
+        "instrument": "conductor"
+      },
+      {
+        "name": "Suzanne Duffy",
+        "instrument": "flute"
+      },
+      {
+        "name": "Ryan Glass",
+        "instrument": "clarinet"
+      }
+    ],
+    "dates": [
+      {
+        "date": "2022-06-20T19:30:00",
+        "note": "concert"
+      }
+    ],
+    "location": {
+      "name": "First United Methodist Church",
+      "address_1": "925 North F Street",
+      "address_2": null,
+      "city": "Lompoc",
+      "state": "CA",
+      "zip": "93436",
+      "country": "US"
+    },
+    "url": null,
+    "program": [
+      {
+        "composer": "Francis Scott Key",
+        "arranger": "Luck",
+        "title": "The Star-Spangled Banner",
+        "selections": [],
+        "length": 1
+      },
+      {
+        "composer": "John Philip Sousa",
+        "arranger": null,
+        "title": "Washington Post March",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "John Williams",
+        "arranger": "C Rothrock",
+        "title": "Superman March",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "Leroy Anderson",
+        "arranger": null,
+        "title": "Belle of the Ball Waltz",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "Duke Ellington",
+        "arranger": "Calvin Custer",
+        "title": "Duke Ellington! (A Medley for Orchestra)",
+        "selections": [
+          "Don't Get Around Much Anymore",
+          "Do Nothin' Till You Hear From Me",
+          "Sophisticated Lady",
+          "It Don't Mean a Thing (If it Ain't Got That Swing)"
+        ],
+        "length": 7
+      },
+      {
+        "composer": "Camille Saint-Saens",
+        "arranger": null,
+        "title": "Tarantella for Flute, Clarinet, and Orchestra",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "Alan Menken",
+        "arranger": "M Kosarin",
+        "title": "Beauty & the Beast Overture",
+        "selections": [],
+        "length": 3
+      },
+      {
+        "composer": "Traditional",
+        "arranger": "Fritz Slatkin",
+        "title": "Fisher's Hornpipe",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": null,
+        "arranger": "John Moss",
+        "title": "Salute to Ol' Blue Eyes",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "F. D. Marchetti",
+        "arranger": null,
+        "title": "Fascination",
+        "selections": [],
+        "length": 5
+      },
+      {
+        "composer": "Van Halen",
+        "arranger": "Victor Lopez",
+        "title": "Van Halen Hits",
+        "selections": [],
+        "length": 4
+      },
+      {
+        "composer": "Billy Joel",
+        "arranger": "Chuck Sayre",
+        "title": "The Best of Billy Joel",
+        "selections": [],
+        "length": 5
+      }
+    ]
   }
 ]
